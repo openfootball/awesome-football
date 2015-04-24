@@ -10,6 +10,10 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
+## England
+
+- [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
+
 
 ## More
 
@@ -24,5 +28,5 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 **Questions? Comments?**
 
-Send them along to the [Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport)(http://groups.google.com/group/openmundi). 
+Send them along to the [Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport). 
 Thanks!
