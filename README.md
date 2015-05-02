@@ -2,6 +2,13 @@
 
 A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 
+---
+<!-- announcements here -->
+---
+
+Contributions welcome. Anything missing? Send in a pull request. Thanks.
+
+
 ## World Cup
 
 - [openfootball/world-cup :octocat:](https://github.com/openfootball/world-cup)
