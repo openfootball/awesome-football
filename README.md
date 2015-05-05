@@ -5,7 +5,9 @@ A collection of awesome football (national teams, clubs, match schedules, player
 Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
 
 ---
+
 [ANNOUNCEMENT] Looking for awesome World data (countries, cities, flags, languages, currencies, etc.)? See the [Awesome World List @ Planet Open Data](https://github.com/planetopendata/awesome-world). 
+
 ---
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks.
