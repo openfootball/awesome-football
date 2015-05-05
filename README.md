@@ -39,8 +39,8 @@ _Where's the open football data?_
 
 _Open source apps for match scores, picks, predictions, office pools, and more_
 
-- [worldcup-2014 gem :octocat:](https://github.com/hpoydar/worldcup-2014) - provides command line access to World Cup 2014 information and results
-- [world_cup_cli gem :octocat:](https://github.com/jameswilliamiii/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
+- [worldcup-2014 gem :octocat:](https://github.com/hpoydar/worldcup-2014), [:gem:](https://rubygems.org/gems/worldcup-2014) - provides command line access to World Cup 2014 information and results
+- [world_cup_cli gem :octocat:](https://github.com/jameswilliamiii/world_cup_cli), [:gem:](https://rubygems.org/gems/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
 
 - [fatiherikli/worldcup :octocat:](https://github.com/fatiherikli/worldcup) - World cup results for hackers; uses Soccer For Good API
 - [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014) 
@@ -49,8 +49,8 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [ericsaupe/world-cup :octocat:](https://github.com/ericsaupe/world-cup) - Django based web-application designed to allow users to predict the World Cup matches and create competitive groups with their friends
 
 - [soccer_league :octocat:](https://github.com/mrjabba/soccer_league) - a rails application designed to manage soccer leagues, specifically teams, players and their stats
-- [standings gem :octocat:](https://github.com/scottluptowski/standings) - view the current table of the English Premier League from your terminal
-
+- [standings gem :octocat:](https://github.com/scottluptowski/standings), [:gem:](https://rubygems.org/gems/standings) - view European football (e.g. the English Premier League, English Championship, Scottish Premier League, La Liga, Ligue 1, Serie A, and Bundesliga) standings from your terminal.
+ 
 
 - [Rudeltippen :octocat:](https://github.com/svenkubiak/Rudeltippen) - a football betting game based on the Ninja Framework and Twitter Bootstrap
 - [4teamwork/ftw.footballchallenge :octocat:](https://github.com/4teamwork/ftw.footballchallenge) - an online football bet game based on plone
