@@ -6,7 +6,7 @@ Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub pag
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome World data (countries, cities, flags, languages, currencies, etc.)? See the [Awesome World List @ Planet Open Data](https://github.com/planetopendata/awesome-world). 
+[ANNOUNCEMENT] Looking for awesome world data (countries, cities, flags, languages, currencies, etc.)? See the [Awesome World List @ Planet Open Data](https://github.com/planetopendata/awesome-world). 
 
 ---
 
