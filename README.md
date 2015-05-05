@@ -46,10 +46,16 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014) 
 - [rtopitt/bolao2014 :octocat:](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
 - [threefunkymonkeys/funky-world-cup :octocat:](https://github.com/threefunkymonkeys/funky-world-cup) - a match predictions website for the FIFA World Cup, that allows you to create groups so you can play with your friends defining prices
+- [ericsaupe/world-cup :octocat:](https://github.com/ericsaupe/world-cup) - Django based web-application designed to allow users to predict the World Cup matches and create competitive groups with their friends
 
-- [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
+- [soccer_league :octocat:](https://github.com/mrjabba/soccer_league) - a rails application designed to manage soccer leagues, specifically teams, players and their stats
+- [standings gem :octocat:](https://github.com/scottluptowski/standings) - view the current table of the English Premier League from your terminal
+
+
+- [Rudeltippen :octocat:](https://github.com/svenkubiak/Rudeltippen) - a football betting game based on the Ninja Framework and Twitter Bootstrap
 - [4teamwork/ftw.footballchallenge :octocat:](https://github.com/4teamwork/ftw.footballchallenge) - an online football bet game based on plone
-
+- [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
+- [kdungs/tippspiel :octocat:](https://github.com/kdungs/tippspiel) - bet on football games with your friends
 
 
 
