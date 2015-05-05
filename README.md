@@ -2,8 +2,10 @@
 
 A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 
+Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
+
 ---
-<!-- announcements here -->
+[ANNOUNCEMENT] Looking for awesome World data (countries, cities, flags, languages, currencies, etc.)? See the [Awesome World List @ Planet Open Data](https://github.com/planetopendata/awesome-world). 
 ---
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks.
@@ -31,7 +33,7 @@ _Where's the open football data?_
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
 
-## Fooball Apps
+## Football Apps
 
 _Open source apps for match scores, picks, predictions, office pools, and more_
 
