@@ -39,11 +39,16 @@ _Where's the open football data?_
 
 _Open source apps for match scores, picks, predictions, office pools, and more_
 
-- [worldcup-2014 gem](https://github.com/hpoydar/worldcup-2014) - provides command line access to World Cup 2014 information and results
-- [world_cup_cli gem](https://github.com/jameswilliamiii/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
+- [worldcup-2014 gem :octocat:](https://github.com/hpoydar/worldcup-2014) - provides command line access to World Cup 2014 information and results
+- [world_cup_cli gem :octocat:](https://github.com/jameswilliamiii/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
 
-- [fatiherikli/worldcup](https://github.com/fatiherikli/worldcup) - World cup results for hackers; uses Soccer For Good API
-- [rtopitt/bolao2014](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
+- [fatiherikli/worldcup :octocat:](https://github.com/fatiherikli/worldcup) - World cup results for hackers; uses Soccer For Good API
+- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014) 
+- [rtopitt/bolao2014 :octocat:](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
+- [threefunkymonkeys/funky-world-cup :octocat:](https://github.com/threefunkymonkeys/funky-world-cup) - a match predictions website for the FIFA World Cup, that allows you to create groups so you can play with your friends defining prices
+
+- [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
+- [4teamwork/ftw.footballchallenge :octocat:](https://github.com/4teamwork/ftw.footballchallenge) - an online football bet game based on plone
 
 
 
