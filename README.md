@@ -24,11 +24,20 @@ _Where's the open football data?_
 ### World Cup
 
 - [openfootball/world-cup :octocat:](https://github.com/openfootball/world-cup)
+- [import-io/worldcup2014 :octocat:](https://github.com/import-io/worldcup2014) - World cup data
+- [estiens/world_cup_json :octocat:](https://github.com/estiens/world_cup_json) - rails backend for a scraper that outputs World Cup data as JSON
+- [sanand0/fifadata :octocat:](https://github.com/sanand0/fifadata) - scraping FIFA world cup data
 
 ### England
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
 
+
+### Misc
+
+- [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
+- [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
+ 
 
 ## Stadium Datasets
 
