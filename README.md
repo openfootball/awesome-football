@@ -2,7 +2,7 @@
 
 A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 
-Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
+Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
 ---
 
