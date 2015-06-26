@@ -1,4 +1,11 @@
-# awesome-football
+Awesome Series @ Planet Open Data
+
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
+[SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
+
+
+# Football
 
 A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 
@@ -6,7 +13,7 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome world data (countries, cities, flags, languages, currencies, etc.)? See the [Awesome World List @ Planet Open Data](https://github.com/planetopendata/awesome-world). 
+[ANNOUNCEMENT] Looking for awesome beer festivals from around the world? See the [Beer Festival Calendar @ Open Beer](https://github.com/openbeer/calendar). 
 
 ---
 
