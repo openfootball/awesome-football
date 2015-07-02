@@ -9,15 +9,16 @@ Awesome Series @ Planet Open Data
 
 A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 
-Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
-
 ---
 
 [ANNOUNCEMENT] Looking for awesome beer festivals from around the world? See the [Beer Festival Calendar @ Open Beer](https://github.com/openbeer/calendar). 
 
 ---
 
-Contributions welcome. Anything missing? Send in a pull request. Thanks.
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
+Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
+
 
 ## Football Data Guides / Articles
 
