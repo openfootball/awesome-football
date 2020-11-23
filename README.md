@@ -76,7 +76,9 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [chipsmachine/bltippspiel :octocat:](https://github.com/chipsmachine/bltippspiel) - Bundesliga betting game (tippspiel)
 - [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a little open source android app for gathering information about the austrian bundesliga
 - [rodmoioliveira/football-graphs :octocat:](https://github.com/rodmoioliveira/football-graphs) - Some visualizations on passing networks
-* [Last season comparison](https://compare-last-season.netlify.app/) - Last season comparison tool. [Source code](https://github.com/nurgasemetey/compare-last-season)
+* [Last season comparison](https://compare-last-season.netlify.app), [:octocat:](https://github.com/nurgasemetey/compare-last-season) - Last season comparison tool
+
+
 
 ## Meta
 
