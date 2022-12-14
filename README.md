@@ -12,7 +12,7 @@ A collection of awesome football (national teams, clubs, match schedules, player
 **Contributions welcome. Anything missing? Send in a pull request. Thanks.**
 
 
-## V2 -  Starting in 2022 - What's News?
+## V2 -  What's News in 2022?
 
 
 [**jfjelstul/worldcup**](https://github.com/jfjelstul/worldcup)
