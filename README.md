@@ -12,16 +12,46 @@ A collection of awesome football (national teams, clubs, match schedules, player
 **Contributions welcome. Anything missing? Send in a pull request. Thanks.**
 
 
-## V2 -  Starting in 2022
-
-What's News?
+## V2 -  Starting in 2022 - What's News?
 
 
 [**jfjelstul/worldcup**](https://github.com/jfjelstul/worldcup)
 
 The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). An update with data on the 2022 World Cup in Qatar will be available soon. The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup.
 
-- 
+
+[**JaseZiv/worldfootballR**](https://github.com/JaseZiv/worldfootballR)
+
+This package is designed to allow users to extract various world
+football results and player statistics from the following popular
+football (soccer) data sites:
+
+- FBref
+- [Transfermarkt](https://www.transfermarkt.com/)
+- [Understat](https://understat.com/)
+- [Fotmob](https://www.fotmob.com/)
+
+Since the release of `v0.5.3`, the library now supports very rapid
+loading of pre-collected data through the use of `load_` functions.
+
+The data available for loading is stored in the `worldfootballR_data`
+repository. The repo can be found
+[here](https://github.com/JaseZiv/worldfootballR_data).
+
+
+[**dcaribou/transfermarkt-datasets**](https://github.com/dcaribou/transfermarkt-datasets)
+
+this project aims for three things:
+
+1. Acquire data from transfermarkt website using the [trasfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper).
+2. Build a **clean, public football (soccer) dataset** using data in 1.
+3. Automatate 1 and 2 to **keep these assets up to date** and publicly available on some well-known data catalogs.
+
+Checkout this dataset also in: :white_check_mark: [Kaggle](https://www.kaggle.com/davidcariboo/player-scores) | :white_check_mark: [data.world](https://data.world/dcereijo/player-scores) | 
+:white_check_mark: [streamlit](https://transfermarkt-datasets.herokuapp.com/) |
+:white_check_mark: [awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
+
+
 
 
 
