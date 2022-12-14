@@ -9,7 +9,28 @@ Awesome Series @ Planet Open Data
 
 A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 
-#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+**Contributions welcome. Anything missing? Send in a pull request. Thanks.**
+
+
+## V2 -  Starting in 2022
+
+What's News?
+
+
+[**jfjelstul/worldcup**](https://github.com/jfjelstul/worldcup)
+
+The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). An update with data on the 2022 World Cup in Qatar will be available soon. The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup.
+
+- 
+
+
+
+
+
+
+
+## V1  - Before 2022
+
 
 Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
