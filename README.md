@@ -47,13 +47,34 @@ this project aims for three things:
 2. Build a **clean, public football (soccer) dataset** using data in 1.
 3. Automatate 1 and 2 to **keep these assets up to date** and publicly available on some well-known data catalogs.
 
-Checkout this dataset also in: :white_check_mark: [Kaggle](https://www.kaggle.com/davidcariboo/player-scores) | :white_check_mark: [data.world](https://data.world/dcereijo/player-scores) | 
-:white_check_mark: [streamlit](https://transfermarkt-datasets.herokuapp.com/) |
-:white_check_mark: [awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
+Checkout this dataset also in: 
+[Kaggle](https://www.kaggle.com/davidcariboo/player-scores), 
+[data.world](https://data.world/dcereijo/player-scores),
+[streamlit](https://transfermarkt-datasets.herokuapp.com/),
+[awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
+
+
+[**somdeep/Statball**](https://github.com/somdeep/Statball)
+
+Football (soccer) stats analyser from top 5 european leagues with data obtained from Fbref and Statsbomb.
+
+Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
+
+Statsbomb : https://statsbomb.com/
 
 
 
+[**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
+SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
+`ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and
+`WhoScored`_. You get Pandas DataFrames with sensible, matching column names
+and identifiers across datasets. Data is downloaded when needed and cached
+locally.
+
+To learn how to install, configure and use SoccerData, see the
+`Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the
+supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
 
 
 
