@@ -162,3 +162,8 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 Send them along to the [Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport). 
 Thanks!
+
+
+## World Cup 2026 - Model Predictions (Open Data)
+
+- [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
