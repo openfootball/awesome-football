@@ -17,7 +17,7 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 - [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
 
-
+- [World Cup 2026 Player Data](https://github.com/risingtransfers/world-cup-2026-data) — All 48 squads (1,363 players) with per-90 stats and AI player similarity examples. CC BY 4.0.
 
 ## V2 -  What's News in 2022?
 
