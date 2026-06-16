@@ -22,6 +22,8 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 - [WC2026 Live Tracker](https://github.com/Krymets/wc2026) - Live scores, goals & cards by minute, group standings, knockout bracket and player stats for all 104 matches. Single HTML file, no dependencies, auto-updates via ESPN API.
 
+- [lefProg/claudial](https://github.com/lefProg/claudial) - a small fun project that lets you see live updates for the 2026 World Cup right in your Claude Code status line.
+
 ## V2 -  What's News in 2022?
 
 
