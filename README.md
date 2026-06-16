@@ -22,6 +22,8 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 - [WC2026 Live Tracker](https://github.com/Krymets/wc2026) - Live scores, goals & cards by minute, group standings, knockout bracket and player stats for all 104 matches. Single HTML file, no dependencies, auto-updates via ESPN API.
 
+- [lefProg/claudial](https://github.com/lefProg/claudial)
+
 ## V2 -  What's News in 2022?
 
 
