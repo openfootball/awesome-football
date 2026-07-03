@@ -29,6 +29,8 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 - [lefProg/claudial](https://github.com/lefProg/claudial) - a small fun project that lets you see live updates for the 2026 World Cup right in your Claude Code status line.
 
+- [TopScorers World Cup 2026](https://www.top-scorers.com/en/mundial-2026) - live top scorers, assists and the Golden Boot race for the 2026 World Cup, plus group standings, results and the full 104-match schedule. Bilingual (EN/ES), free, no signup.
+
 ## V2 -  What's News in 2022?
 
 
