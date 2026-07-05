@@ -1,6 +1,6 @@
 Awesome Series @ Planet Open Data
 
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
 [Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
@@ -75,7 +75,6 @@ Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 Statsbomb : https://statsbomb.com/
 
 
-
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
 SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
@@ -87,7 +86,6 @@ locally.
 To learn how to install, configure and use SoccerData, see the
 `Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the
 supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
-
 
 
 
@@ -142,7 +140,7 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [world_cup_cli gem :octocat:](https://github.com/jameswilliamiii/world_cup_cli), [:gem:](https://rubygems.org/gems/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
 
 - [fatiherikli/worldcup :octocat:](https://github.com/fatiherikli/worldcup) - World cup results for hackers; uses Soccer For Good API
-- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014) 
+- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014)
 - [rtopitt/bolao2014 :octocat:](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
 - [rtopitt/bolao :octocat:](https://github.com/rtopitt/bolao) - Bolão Copa 2010
 - [threefunkymonkeys/funky-world-cup :octocat:](https://github.com/threefunkymonkeys/funky-world-cup) - a match predictions website for the FIFA World Cup, that allows you to create groups so you can play with your friends defining prices
@@ -163,6 +161,37 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 * [Last season comparison](https://compare-last-season.netlify.app), [:octocat:](https://github.com/nurgasemetey/compare-last-season) - Last season comparison tool
 
 
+## Non-League Match Day Culture
+
+_The National League (Step 1 of the English football pyramid) and grassroots non-league football below it have some of the most authentic match day experiences in the sport. This section captures community-discussed traditions and what makes these Grounds special._
+
+### Match Day Traditions & Experiences
+
+- **The Pavilion Pie & Scran**: Forget the overpriced, lukewarm hotdogs found in the top flight. Non-league grounds have embraced the "Footy Scran" revolution — partnering with local bakeries to serve legendary steak and ale pies, creamy mash and rich gravy. It is proper football scran that warms you up on a chilly Tuesday night under the floodlights. ([Source: The Non-League Football Paper](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/))
+
+- **The Social Club as Heart of the Club**: The pre-match ritual in non-league is worlds apart from the corporate lounges of the elite. Every ground has its own clubhouse or social club, where the community truly gathers. These are welcoming hubs where you can grab a drink for a fraction of the price you would pay downtown, and where fans, club officials, and sometimes even the players mingle freely — making you feel like a member of a family rather than just a customer.
+
+- **Buy a Physical Programme**: In an increasingly digital world, the matchday programme is one of the few remaining physical traditions. For a couple of pounds, you get a unique souvenir filled with local history, manager notes, and player interviews. Every penny counts toward maintaining the pitch and paying the utility bills. There is something uniquely satisfying about leafing through a paper programme while standing on a terrace.
+
+- **The Freedom of the Terrace**: Most grounds allow you to stand wherever you like, meaning you can "change ends" at half-time to stay behind the goal your team is attacking. You are close enough to hear the crunch of a tackle and the shouts of the keeper. There are no assigned seats, no VAR delays, and no barrier between you and the action — football in its purest form.
+
+- **Pre-Match Pub Rituals**: Every club has its own rituals — a specific pub fans congregate in before games, a particular chant that gets the crowd going. Popular with National League clubs include pre-match gatherings at traditional pubs near the ground, where fans sing, share stories, and build the atmosphere before walking to the stadium together. ([Source: r/football match day traditions discussion](https://www.reddit.com/r/football/comments/rn0in4/whats_your_match_day_traditions/))
+
+- **Season Ticket Holder Community**: Purchasing a season ticket is a declaration of love for the club and a golden ticket to an elevated fan experience. You get the same seat for every home game, get to know your neighbouring fans, and become part of a community — like being in a long-term relationship with your club. ([Source: The Non-League Football Paper](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/))
+
+- **Away Day Adventures**: Attending away matches in the National League takes the most commitment but offers the most electrifying experience. You become an ambassador for your club, singing and cheering no matter the odds. Travelling to different parts of the country offers a unique perspective and lets you absorb different local football cultures.
+
+- **Terrace Chants & Fan-Created Atmosphere**: Non-league chants have roots in the working-class culture of the area where the team is from. Fans grow up identifying with the team and learning the chants, creating an atmosphere that is organic and deeply personal — unlike the stadium audio systems of elite football. ([Source: r/NoStupidQuestions discussion on football chants](https://www.reddit.com/r/NoStupidQuestions/comments/z8wpxv/why_are_american_sports_chants_so_awful_compared/))
+
+- **Connecting with the Game Digitally**: Even at rural grounds with a single wooden stand, non-league fans in 2026 are tech-savvy — checking live stats on phones, following the "as it stands" league table during half-time, and engaging with digital platforms to stay connected to the wider football community.
+
+### Recommended Reading & Community Discussions
+
+- [The Perfect Matchday: A Beginner's Guide to the Non-League Experience — The Non-League Football Paper](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/)
+- [Boosting Your National League Fan Experience: 7 Golden Tips — The Non-League Football Paper](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/)
+- [r/football — "What's your match day traditions?"](https://www.reddit.com/r/football/comments/rn0in4/whats_your_match_day_traditions/)
+- [r/NationalLeague — The National League community subreddit](https://www.reddit.com/r/NationalLeague/)
+- [How fans rate the matchday experience at every National League club — Hartlepool Mail](https://www.hartlepoolmail.co.uk/sport/football/how-fans-rate-the-matchday-experience-at-every-national-league-club-where-hartlepool-united-southend-united-rochdale-sutton-united-and-the-rest-rank-5167916)
 
 ## Meta
 
