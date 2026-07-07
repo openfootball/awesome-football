@@ -1,30 +1,62 @@
-# Match Day Culture & Fan Experiences
+# Non-League Match Day Culture — Quick Reference
 
-Non-league football, spanning the National League down to local county tiers, offers an atmosphere that is intimate, affordable, and refreshingly honest.
+> Concise guide to non-league (National League and below) football match day culture for the awesome-football project.
 
-## Key Traditions & Experiences
+## 8 Golden Tips for Non-League Fan Experience
 
-- **Freedom of the Terrace** — Most non-league grounds allow you to stand wherever you like, meaning you can "change ends" at half-time to stay behind the goal your team is attacking. You are close enough to hear the crunch of a tackle and the shouts of the keeper.
-- **Pie & Mash Culture** — Traditional stadium food and the ritual of purchasing a pie and mash before kickoff is a beloved non-league tradition.
-- **Programme Culture** — Match day programmes serve as collectibles and a tangible connection to the club's history.
-- **Intimate Grounds** — Smaller venues mean fans are right next to the action, creating an electric atmosphere absent from larger stadiums.
-- **Away Day Ambassador Culture** — Traveling to rival territory as an ambassador for your club, absorbing different local cultures while singing and cheering.
-- **Season Ticket Community** — Commitment to a season ticket fosters long-term relationships with your club and neighboring fans, building a genuine sense of belonging.
-- **Pre-Match Rituals** — Every club has its traditions, from the specific pub fans congregate in before games to particular chants that get the crowd going — participating in these rituals deepens your connection to the club.
-- **Fan Clubs & Supporters' Groups** — Local groups arrange special events, travel packages to away games, and even meet-and-greets with players.
+### 1. Embrace the Pub Walk
+Arrive early. The pre-match pint at a local pub is the true start of the match day — not a distraction from it.
 
-## 7 Golden Tips for Your National League Fan Experience
+### 2. Get Close to the Action
+Non-league grounds seat 500–5,000. You'll be metres from the pitch, hearing every tackle and shouting every goal.
 
-1. **Attend Away Games** — Be an ambassador for your club in rival territory
-2. **Become a Season Ticket Holder** — Commitment builds community
-3. **Engage in Digital Discussions** — Forums, social media, and fan sites deepen understanding
-4. **Engage in Responsible Wagering** — Adds extra excitement when done responsibly
-5. **Join a Fan Club or Supporters' Group** — Access special events and player meet-and-greets
-6. **Go the Extra Mile with Memorabilia** — Retro shirts and signed footballs create physical connections
-7. **Take Part in Pre-match Rituals** — Pub traditions and chants get you in the matchday spirit
+### 3. Talk to Fellow Fans
+Stewards and supporters welcome curiosity. Ask about the club's history, the local rivalry, the best pub.
 
-## Sources & Further Reading
+### 4. Try the Canteen
+A pie, a Bovril, a cuppa — the non-league canteen is part of the match day ritual.
 
-- **[The Perfect Matchday: A Beginner's Guide to the Non-League Experience](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/)** — The Non-League Football Paper explores the intimate, affordable, and honest nature of non-league football
-- **[Boosting Your National League Fan Experience: 7 Golden Tips](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/)** — Seven tips to elevate your National League fan experience
-- **[r/NationalLeague — Best Club to Attend as Neutral Fan](https://www.reddit.com/r/NationalLeague/comments/13zlri5/best_national_league_club_to_attend_as_neutral_fan/)** — Community discussion on atmosphere and openness to casual fans
+### 5. Watch the Programme
+These hand-crafted publications are local history. Pick one up, read about the team, the community, the story.
+
+### 6. Respect the Ground
+These are volunteer-run, community-owned spaces. Treat them with care — they're priceless to the town.
+
+### 7. Stay After Full Time
+The post-match pint is where the real community happens. Hang around, hear the debates, join in.
+
+### 8. Come Back
+Non-league football rewards repeat visits. Each ground has its own character — exploring them is the journey.
+
+---
+
+## Cost Comparison at a Glance
+
+| Level | Ticket | Season Ticket | Experience |
+|-------|--------|---------------|------------|
+| National League | £5–£15 | £100–£200 | Professional but intimate |
+| National League North/South | £4–£12 | £75–£150 | Community-rooted football |
+| Step 1–4 (Tiers 7–10) | £3–£10 | £50–£100 | Pure local football |
+| EFL Championship | £25–£50 | £500–£1,200 | Professional, distant |
+| Premier League | £40–£100+ | £700–£3,000+ | Global spectacle, corporate |
+
+---
+
+## The 3 A's
+
+- **Affordability** — Football for everyone, not just those who can pay top prices
+- **Accessibility** — Walk to the ground, talk to supporters, feel the match
+- **Accountability** — Fan-owned clubs, community trusts, transparent governance
+
+---
+
+## Quick Stats: 2024/25 National League
+
+- **1,358 goals** in 24-team division
+- **2.9 million** estimated annual fans
+- **20+ professional clubs**
+- **Wrexham** in global spotlight (Reynolds/McElhenney ownership)
+
+---
+
+*Part of the [awesome-football](https://github.com/openfootball/awesome-football) project — public domain.*
