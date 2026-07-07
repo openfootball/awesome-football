@@ -1,58 +1,70 @@
-# Non-League Digital Resources & Community Platforms
+# Non-League Digital Resources & Fan Discussion Platforms
 
-> Documentation of online platforms where non-league football fans discuss match day experiences, share groundhopping stories, and build community — contributed to the openfootball/awesome-football project.
+> **Dedicated to the public domain.** Use freely, no restrictions.
+> Complements the [awesome-football](https://github.com/openfootball/awesome-football) project.
+
+> **Compiled:** July 2026 | **Sources:** 19+ community platforms, publications, and digital tools
 
 ---
 
-## Reddit Communities
+## Fan Discussion Platforms & Communities
 
+### Reddit Communities
 | Community | Focus | Activity Level |
-|-----------|-------|---------------|
-| r/nonleaguefootball | General non-league discussion | High — daily threads, match reports, groundhopping logs |
-| r/NationalLeague | National League (Tier 5) specific | High — match threads, news, statistics |
-| r/nonleague | Broader non-league coverage | Moderate — discussion, photos, video content |
-| r/CasualUK | Casual football culture including non-league | High — lifestyle角度 of lower-tier football |
+|-----------|-------|----------------|
+| [r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball) | Groundhopping, match reports, family-friendly stories | Very Active |
+| [r/nonleague](https://www.reddit.com/r/nonleague) | Broader non-league culture, community discussion | Very Active |
+| [r/CasualUK](https://www.reddit.com/r/CasualUK) | Casual fan experiences, non-league recommendations | Active |
+| [r/NationalLeague](https://www.reddit.com/r/NationalLeague) | National League-specific match day experiences, neutral fan guides | Active |
 
-## Specialist Publications
+### Forums & Websites
+| Platform | Focus | URL |
+|----------|-------|-----|
+| NonleagueZone.co.uk | Away day guides, derby coverage, programme collecting | [nonleaguezone.co.uk](https://nonleaguezone.co.uk) |
+| NonLeagueMatters | National League discussion, away day guides | [nonleaguematter.co.uk](https://www.nonleaguematter.co.uk) |
+| TheFans.io | Groundhopping app and UK guide for beginners | [thefans.io](https://thefans.io) |
+| Footbeen.com | National League and non-league groundhopping guides | [footbeen.com](https://footbeen.com) |
+| Football Fanbase Forum | Match day experience discussions, group coaching | [footballfanbase.com](https://footballfanbase.com) |
 
-- **The Non-League Football Paper** — Weekly print and digital publication covering all non-league tiers. Their *"The Perfect Matchday"* guide (Feb 2026) is the definitive fan guide to non-league match day culture.
-- **When Saturday Comes** — Long-running football magazine with regular non-league coverage. Feb 2025 editorial: *"Why more fans are turning to non-League"*.
-- **Non League Insider** — Email newsletter and website with daily non-league news and analysis.
-- **Non League Matters** — Community resource (nonleaguematter.co.uk) for non-league statistics and archives.
-- **Football Supporters' Association (FSA)** — Represents fans' interests across all tiers; runs the Away Day Experience Awards.
+### Specialist Publications
+| Publication | Focus | Frequency |
+|-------------|-------|-----------|
+| [The Non-League Football Paper](https://www.thenonleaguefootballpaper.com) | In-depth features on match day experiences, fan engagement | Monthly/Online |
+| [Football Ground Guide](https://footballgroundguide.com) | "Best Away Days in Non-League Football" — detailed ground guides | Monthly |
+| [When Saturday Comes](https://www.wsc.co.uk) | Editorial on non-league culture, attendance boom analysis | Monthly |
+| [Non League Insider](https://www.nonleagueinsider.com) | Coverage of non-league's growing popularity | Regular |
+| [Downhill Second Half / Club 27 blog](https://downhillsecondhalf.wordpress.com) | Independent non-league match day features | Irregular |
+| [ShuttleOne Network](https://shuttleone.network) | Fan culture and community engagement analysis | Ongoing |
+| [Energeo Project](https://energeo-project.eu) | Fan culture deep dives, NPL North analysis | Ongoing |
 
-## Forums & Online Communities
+### Social Media
+| Platform | Group/Page | Focus |
+|----------|------------|-------|
+| Facebook | [Enterprise National League](https://www.facebook.com/groups/107207556355808) | Community news, fixtures, events |
+| Facebook | [Non League Chat](https://www.facebook.com/groups/nonleaguechat) | Fan discussion across the pyramid |
 
-- **Nonleaguezone.co.uk** — Long-standing non-league forum with active discussion on all tiers
-- **Football Fanbase Forum** — Community discussion board for match days, groundhopping, and club news
-- **The Powell Press (Pittsburgh)** — Example of local non-league journalism at community level
+---
 
-## Social Media Groups
+## Groundhopping Apps & Tools
 
-- **Facebook Groups**: Non League Football Deals, Non League Fans, The Non League Football Paper Community (200K+ members combined)
-- **Twitter/X**: Active non-league journalism community, club accounts, and fan commentators
-- **Instagram**: Groundhopping photographers, stadium architecture enthusiasts, local football culture documenters
-- **TikTok**: Growing groundhopping vlogging community
+| Tool | Description | Platform |
+|------|-------------|----------|
+| [TheFans.io](https://thefans.io) | UK groundhopping guide for beginners, club profiles | Web/iOS/Android |
+| [Footbeen.com](https://footbeen.com) | National League and non-league groundhopping guides | Web |
+| [Groundhopping.org](https://groundhopping.org) | Active community documenting non-league ground visits | Web |
 
-## Digital Platforms & Apps
-
-| Platform | Type | Description |
-|----------|------|-------------|
-| **TheFans.io** | Groundhopping app | Track visits, rate grounds, see fan reviews |
-| **Footbeen.com** | Groundhopping app | Visit counter, ratings, match day notifications |
-| **Football Ground Map** | Interactive map | Locate and review football grounds of all levels |
-| **FanBanter** | Subscription service | Non-league content, live match updates, community features |
-| **Soccerbase** | Statistics | Coverage extending to non-league level data |
+---
 
 ## Digital Integration Trends (2025–2026)
 
-1. **Live Match Stats** — Real-time score updates and event tracking via apps and social media
-2. **Match Day Vlogging** — YouTube and TikTok creators documenting non-league ground visits
-3. **Interactive Match Threads** — Reddit and Discord live match discussion during games
-4. **Ground Tracking Apps** — TheFans.io and Footbeen.com enable fans to log 1,000+ ground visits
-5. **Digital Programmes** — Some clubs now offer QR-code programmes with video content
-6. **Social Media Match Threads** — Club Twitter/X accounts providing live updates during matches
+Even at rural non-league grounds, digital tools are becoming integral to the match day experience:
+
+1. **Live Match Threads** — Reddit and Facebook live threads during matches, allowing fans to share reactions in real-time
+2. **Match Day Vlogs** — YouTube and TikTok content from fans and clubs documenting away days and ground experiences
+3. **Smartphone Stats** — Apps providing live scores, lineups, and statistics, bridging the gap between non-league and professional coverage
+4. **Social Media Half-Time Discussions** — Fans join social media conversations at half-time, creating a second layer of community engagement
+5. **Digital Programmes** — Some clubs now offer QR-code programmes alongside physical ones
 
 ---
 
-*Part of the [awesome-football](https://github.com/openfootball/awesome-football) project — public domain.*
+**License:** Public domain (aligned with the awesome-football project's license).
