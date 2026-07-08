@@ -82,7 +82,6 @@ Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 Statsbomb : https://statsbomb.com/
 
 
-
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
 SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
@@ -122,11 +121,9 @@ _Where's the open football data?_
 - [sanand0/fifadata :octocat:](https://github.com/sanand0/fifadata) - scraping FIFA world cup data
 - [pratapvardhan/FIFAWorldCup :octocat:](https://github.com/pratapvardhan/FIFAWorldCup) - FIFA World Cup data includes teams data, squad formations, clubs dominance
 
-
 ### England
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
-
 
 ### Misc
 
@@ -141,7 +138,88 @@ _Where's the open football data?_
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
 
+## Football Culture & Fan Experiences
+
+**Non-league football offers some of the most authentic, affordable, and community-driven match day experiences in English football.** From the National League down to local county tiers, the culture is built on intimacy, shared experience, and deep connection to local community.
+
+### Key Match Day Traditions
+
+- **The Pub Signal** — Pre-match gatherings at local pubs/social clubs where fans debate team news and build community
+- **Intimate Grounds** — Small stadiums (500–5,000 capacity) where supporters are pitchside, not in corporate boxes
+- **Freedom of the Terrace** — Open standing, no assigned seats, change ends at half-time to follow the ball
+- **The Clubhouse / Social Club** — Volunteer-run, affordable, family atmosphere where fans and officials mingle
+- **Pie, Mash & Gravy ("Footy Scran")** — Legendary local bakery food, £3–4 per weekend pie directly supporting the club
+- **Physical Programme** — Paper programmes as collectible souvenirs; every penny goes to club finances
+- **Volunteer Spirit** — Clubs run by community volunteers; fans often help steward or serve refreshments
+- **Local Rivalries** — Decades-old, deeply-rooted geographic derbies with genuine neighbourhood stakes
+- **Chants & Songs** — Organic, locally-written songs reflecting community identity
+- **Family Inclusion** — Children welcome everywhere, £5–£15 tickets, safe and family-friendly
+- **The Conference Legacy** — Community-over-commercial ethos from the old Football Conference era (1979–2004)
+- **Non-League Day** — Annual celebration (March) promoting football below the top four tiers
+- **Post-Match Socialising** — The clubhouse stays open, the debate continues over a pint
+
+### Cost & Accessibility
+
+| Level | Ticket | Season Cost (20 away) | Time to Enter |
+|-------|--------|----------------------|---------------|
+| Premier League | £30–£70+ | £1,500–£3,000+ | 45+ min |
+| Championship | £20–£45 | £800–£1,800 | 30+ min |
+| League 1/2 | £15–£30 | £400–£1,000 | 20–30 min |
+| National League | £8–£15 | £150–£300 | ~20 min |
+| NL North/South | £5–£12 | £80–£200 | ~15 min |
+| Steps 5–7 | £3–£10 | £40–£120 | ~10 min |
+
+**The 3 A's of Non-League Culture:**
+- **Affordability** — dramatically lower costs than the professional game
+- **Accessibility** — easy to find, easy to enter, no membership required
+- **Accountability** — fans can approach the chairman or manager directly, no corporate barrier
+
+### Community Discussion Platforms
+
+| Platform | What Fans Discuss |
+|----------|-------------------|
+| r/nonleaguefootball | Groundhopping culture, family-friendly stories, match reports |
+| r/nonleague | Broader non-league discussion, culture, community |
+| r/NationalLeague | National League-specific match day experiences |
+| r/CasualUK | Casual fan experiences and non-league recommendations |
+| NonLeagueMatters | National League discussion, away day guides, derby coverage |
+| Nonleaguezone.co.uk | Away day guides, programme collecting |
+| The Non-League Football Paper | Match day guides, features ("Perfect Matchday" guide, Feb 2026) |
+| Football Ground Guide | "Best Away Days in Non-League Football" (2026 edition) |
+| TheFans.io | Live stats, ground reviews |
+| Footbeen.com | Ground hopping, reviews |
+| ShuttleOne Network | Fan culture analysis for National League North |
+| Football Fanbase Forum | Fan perspectives, costs, match day experiences |
+| When Saturday Comes | "Why more fans are turning to non-League" editorial |
+| FSA | Away Day Experience Awards |
+
+### Notable Recognition
+
+- **FSA Away Day Experience Award 2025**: Falmouth Town AFC (Bickland Park) — Overall Winner
+- **"Perfect Matchday" guide** — The Non-League Football Paper (February 2026)
+- **"From the Clubhouse to the Pitch"** — Non-League Football Paper feature (July 2025)
+- **"7 Golden Tips for National League Fans"** — Non-League Football Paper (August 2023)
+- **Football Ground Guide** 2026 away day guides for National League and below
+
+### Fan Sentiment
+
+> "You're made to feel part of the family" — consistently the #1 description of non-league grounds
+
+> "The atmosphere is intimate, affordable, and refreshingly honest" — The Non-League Football Paper, 2026
+
+### Recommended Reading
+
+1. [The Non-League Football Paper — "The Perfect Matchday" (Feb 2026)](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/)
+2. [Football Ground Guide — "Best Away Days" (2026)](https://www.footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html)
+3. [Non-League Football Paper — "7 Golden Tips"](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/)
+4. [When Saturday Comes — "Why more fans are turning to non-League" (Feb 2025)](https://wsc.co.uk)
+5. [FSA Away Day Experience Awards 2025](https://thefsa.org)
+
+[→ Detailed documentation: `NON-LEAGUE-MATCHDAY-CULTURE.md`] | [→ Quick summary: `MATCHDAY-CULTURE.md`]
+
+
 ## Football Apps
+
 
 _Open source apps for match scores, picks, predictions, office pools, and more_
 
@@ -181,3 +259,15 @@ The awesome list is dedicated to the public domain. Use as you please with no re
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
+
+
+## Repository Structure
+
+### Files
+- NOTES.md (0.4 KB)
+- README.md (12.0 KB)
+
+## Links
+
+- **GitHub:** https://github.com/openfootball/awesome-football
+- **Clone:** `git clone https://github.com/openfootball/awesome-football.git`
