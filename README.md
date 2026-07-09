@@ -277,7 +277,7 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [kdungs/tippspiel :octocat:](https://github.com/kdungs/tippspiel) - bet on football games with your friends
 - [chipsmachine/bltippspiel :octocat:](https://github.com/chipsmachine/bltippspiel) - Bundesliga betting game (tippspiel)
 - [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a little open source android app for gathering information about the austrian bundesliga
-- [rodmoiolineira/football-graphs :octocat:](https://github.com/rodmoiolinea/football-graphs) - Some visualizations on passing networks
+- [rodmoiolineira/football-graphs :octocat:](https://github.com/rodmoiolineira/football-graphs) - Some visualizations on passing networks
 * [Last season comparison](https://compare-last-season.netlify.app), [:octocat:](https://github.com/nurgasemetey/compare-last-season) - Last season comparison tool
 
 
