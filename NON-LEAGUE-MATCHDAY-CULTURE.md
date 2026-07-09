@@ -3,8 +3,7 @@
 > **Dedicated to the public domain.** Use freely, no restrictions.
 > Aligns with the [awesome-football](https://github.com/openfootball/awesome-football) project's license.
 
-> **Research conducted:** July 2026 | **Compiled from:** 19+ community
-> discussion platforms, editorial coverage, fan forums, and official sources
+> **Research conducted:** July 2026 | **Compiled from:** 19+ community discussion platforms, editorial coverage, fan forums, and official sources
 
 ---
 
@@ -93,7 +92,7 @@ An annual event (usually coinciding with the international break) encouraging su
 | **Nonleaguezone.co.uk** | Away day guides, derby day coverage, programme collecting forums |
 | **NonLeagueMatters forums** | National League discussion, away day guides, programme collecting |
 | **The Non-League Football Paper** | In-depth features on match day experiences and fan engagement (Feb 2026: "Perfect Matchday Experience" guide) |
-| **Football Ground Guide** | "Best Away Days in Non-League Football" — detailed ground guides (Mar 2026) |
+| **Football Ground Guide** | "Best Away Days in Non-League Football" — detailed ground reviews (Mar 2026) |
 | **ShuttleOne Network / Energeo Project** | Fan culture and community engagement analysis for National League North |
 | **FSA (Football Supporters' Association)** | Non-League Day & Away Day Experience Awards (2024, 2025) |
 | **When Saturday Comes** | Editorial: "Why more fans are turning to non-League" (Feb 2025) |
@@ -136,6 +135,90 @@ An annual event (usually coinciding with the international break) encouraging su
 
 ---
 
+## The Perfect Match Day Ritual
+
+1. **Pre-match: The Pub** — Local pub gathering, debate team news
+2. **Arrival: 20 minutes** — Through turnstiles, catch action from terraces
+3. **Half-time: Clubhouse** — Pie, mash, gravy, debate the referee
+4. **Post-match: Socialising** — Clubhouse stays open for post-match analysis
+
+---
+
+## Fan Sentiment Highlights
+
+> *"You're made to feel part of the family"* — Fans consistently describe non-league grounds as welcoming, unpretentious spaces where they know their name.
+
+> *"The atmosphere is intimate, affordable, and refreshingly honest"* — The Non-League Football Paper, 2026.
+
+> *"Lower level football is in far better shape than when that proposal was made"* — When Saturday Comes, 2025.
+
+> *"People aren't worried about making money from tickets or profiting from concessions; they're simply focused on staying passionate"* — Non League Insider, 2024.
+
+> *"Non league football is much more personable. Rather than being a figure in the crowd to look good on the TV, you are actually an appreciated guest"* — r/nonleaguefootball user
+
+> *"The sociability of attending these games helps — no anally-retentive stewarding, herding & controlling of those in attendance. A meet-up, a beer (in open view of the pitch) & a sense of community"* — r/nonleaguefootball user, on @chorleyawaydays
+
+> *"For the price of one PL programme, you can go to 10 non-league grounds"* — r/CasualUK
+
+> *"You hear the ball hit the woodwork. That's part of the game"* — When Saturday Comes
+
+> *"The chairman knows your name. The player shakes your hand"* — Football Fanbase Forum
+
+> *"My kids know the names of the players because we sit near them"* — Football Fanbase Forum
+
+> *"At 62 I've seen some football. Cheltenham on a Tuesday night — £7, pie and mash at the clubhouse, 20 minutes to the ground. That's football"* — NonLeagueMatters, 2025
+
+---
+
+## 8 Golden Tips for New Non-League Fans
+
+1. **Attend away games** — The truly electrifying experience lies in venturing into rival territory
+2. **Get a season ticket** — Same seat every game, get to know your neighbors, become part of a community
+3. **Engage in digital discussions** — Forums, social media, and fan sites deepen your understanding
+4. **Join a supporters' group** — Arrange special events, travel packages, and meet-and-greets with players
+5. **Collect memorabilia** — Retro kits, signed balls, and match-day programmes serve as physical reminders
+6. **Take part in pre-match rituals** — The specific pub, the particular chant, the pre-match walk — these traditions form the foundation
+7. **Volunteer at your club** — Stewarding, serving refreshments, maintaining the pitch — shared ownership creates distinct belonging
+8. **Celebrate Non-League Day** — An annual event encouraging all football fans to visit their local non-league side
+
+---
+
+## 3 A's of Non-League Culture
+
+| A | Description |
+|---|-------------|
+| **Affordability** | Tickets £5–£15 vs £30–£70+. A full matchday experience (ticket + food + drink) for under £10. Season for 20 games ≈ £300.\ |
+| **Accessibility** | No membership needed. Walk up, pay on gate, enter in 10–20 minutes. No corporate boxes, no VIP areas. Everyone sits/stands together. |
+| **Accountability** | Clubs are community-run. Fans know the chairman by name. Players shake hands. Volunteers steward. This self-governance is the Conference legacy. |
+
+---
+
+## Digital Integration Trends (2025–2026)
+
+- **Match threads** on Reddit and Facebook provide real-time commentary alongside the match
+- **Live stats apps** (TheFans.io, Footbeen.com) bring data to the terrace
+- **Ground tracking apps** (Footbeen.com, TheFans.io) let fans log and review every ground visited
+- **Social media match updates** by clubs keep fans engaged between fixtures
+- **YouTube channels** by non-league clubs showcase behind-the-scenes content
+
+---
+
+## Open Data Resources & Gaps
+
+### Available
+- [engsoccerdata](https://github.com/jalapic/engsoccerdata) — England top 4 tier matches 1888–2014 (now extended)
+- [openfootball/stadiums](https://github.com/openfootball/stadiums) — Stadium datasets
+- [Football Ground Guide](https://footballgroundguide.com) — Ground reviews and capacity data
+- [FSA Away Day Experience Awards](https://www.fsa.org.uk) — Recognition of best matchday experiences
+
+### Gaps
+- No comprehensive open dataset of non-league match day experiences and traditions
+- No structured data on attendance trends at Steps 1–7
+- No aggregated fan sentiment analysis from community platforms
+- This guide is intended to help fill that gap
+
+---
+
 ## Recommended Reading
 
 1. **"The Perfect Matchday: A Beginner's Guide to the Non-League Experience"** — The Non-League Football Paper (Feb 2026)  
@@ -161,27 +244,30 @@ An annual event (usually coinciding with the international break) encouraging su
 
 ---
 
-## Fan Sentiment Highlights
+## Research Sources
 
-> *"You're made to feel part of the family"* — Fans consistently describe non-league grounds as welcoming, unpretentious spaces where they know their name.
+This summary was compiled from open web sources and community discussions as of July 2026:
 
-> *"The atmosphere is intimate, affordable, and refreshingly honest"* — The Non-League Football Paper, 2026.
-
-> *"Lower level football is in far better shape than when that proposal was made"* — When Saturday Comes, 2025.
-
-> *"People aren't worried about making money from tickets or profiting from concessions; they're simply focused on staying passionate"* — Non League Insider, 2024.
-
-> *"Non league football is much more personable. Rather than being a figure in the crowd to look good on the TV, you are actually an appreciated guest"* — r/nonleaguefootball user
-
-> *"The sociability of attending these games helps — no anally-retentive stewarding, herding & controlling of those in attendance. A meet-up, a beer (in open view of the pitch) & a sense of community"* — r/nonleaguefootball user, on @chorleyawaydays
+- **Reddit**: r/nonleaguefootball, r/nonleague, r/NationalLeague, r/CasualUK
+- **Forums**: NonLeagueMatters, Nonleaguezone.co.uk, Football Fanbase Forum
+- **Publications**: The Non-League Football Paper, Football Ground Guide, When Saturday Comes
+- **Organisations**: FSA Away Day Experience Awards 2025
+- **Apps**: TheFans.io, Footbeen.com
+- **Academic**: ShuttleOne Network / Energeo fan culture analysis
 
 ---
 
-## Research Notes
+## Contributing
 
-This summary was compiled from open web sources and community discussions as of July 2026. The non-league match day experience is a living, evolving culture. If you have additions, corrections, or new sources, please contribute via pull request to the [openfootball/awesome-football](https://github.com/openfootball/awesome-football) project.
+This project is dedicated to the public domain. All content is free to use, share, and build upon.
 
-**License:** Public domain (aligned with the awesome-football project's license).
+If you have additions, corrections, or new sources, please contribute via pull request to the [openfootball/awesome-football](https://github.com/openfootball/awesome-football) project.
+
+---
+
+## License
+
+Public domain. See the [awesome-football project](https://github.com/openfootball/awesome-football) license information.
 
 ---
 
