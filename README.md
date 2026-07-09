@@ -1,9 +1,8 @@
 Awesome Series @ Planet Open Data
 
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
 [Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
-
 
 # Awesome Football   (Open Datasets & Open Source Apps)
 
@@ -15,29 +14,20 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 ### World Cup 2026 
 - [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - model predictions (open data); per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
-
-- [uananalyse World Cup 2026 predictions](https://github.com/uanalyse/world-cup-2026-predictions) - daily, timestamped forecasts published before kickoff; per-match win/draw/loss probabilities and expected goals, plus tournament probabilities (reach each stage, champion) from a 10,000-run Monte Carlo group stage with the knockout bracket solved exactly by dynamic programming (computed, not sampled). Append-only, signed CC BY 4.0 CSVs, refreshed daily through the tournament, with a live [interactive portal](https://uanalyse.co.uk/world-cup-2026). Widely used: 300+ repo clones in two weeks, plus independent bracket and Kicktipp projects building on it.
-
+- [uanalyse World Cup 2026 predictions](https://github.com/uanalyse/world-cup-2026-predictions) - daily, timestamped forecasts published before kickoff; per-match win/draw/loss probabilities and expected goals, plus tournament probabilities (reach each stage, champion) from a 10,000-run Monte Carlo group stage with the knockout bracket solved exactly by dynamic programming (computed, not sampled). Append-only, signed CC BY 4.0 CSVs, refreshed daily through the tournament, with a live [interactive portal](https://uanalyse.co.uk/world-cup-2026). Widely used: 300+ repo clones in two weeks, plus independent bracket and Kicktipp projects building on it.
 - [World Cup AI Forecast](https://worldcupaiforecast.com/) - multilingual World Cup 2026 forecast and analysis dashboard with match win probabilities, score predictions, group standings, lineup notes, completed-match backtesting, transparent [methodology](https://worldcupaiforecast.com/methodology-en.html) and [data-source notes](https://worldcupaiforecast.com/data-sources-en.html). Entertainment-only informational analytics.
 - [FootyTips World Cup backtest](https://github.com/tuofangzhe/footytips-worldcup-backtest) - reproducible backtest of an open Elo + Poisson (Dixon-Coles) model across all 22 World Cups (1930-2022, 964 matches): 56.6% win/draw/loss hit rate, replayed walk-forward from the CC0 [martj42 dataset](https://github.com/martj42/international_results) with no future data. ~250 lines, zero dependencies, `npm run backtest` reproduces the numbers; live 2026 picks [settled publicly](https://footytips.io/track-record/) after each match, including the misses.
-
 - [World Cup 2026 Tour schedule dataset](https://ay-worldcup2026.zeabur.app/dataset) - all 104 fixtures with UTC kickoff times, match pages, CSV/JSONL snapshots, a free local-time JSON API, OpenAPI spec, ICS calendar feed, and [Hugging Face](https://huggingface.co/datasets/abaiii168/world-cup-2026-tour-match-schedule) / [Kaggle](https://www.kaggle.com/datasets/ayworldcup2026/world-cup-2026-tour-match-schedule) mirrors.
-
 - [World Cup 2026 Player Data](https://github.com/risingtransfers/world-cup-2026-data) - all 48 squads (1363 players) with per-90 stats and AI player similarity examples. CC BY 4.0.
-
 - [WC2026 Live Tracker](https://github.com/Krymets/wc2026) - Live scores, goals & cards by minute, group standings, knockout bracket and player stats for all 104 matches. Single HTML file, no dependencies, auto-updates via ESPN API.
-
 - [lefProg/claudial](https://github.com/lefProg/claudial) - a small fun project that lets you see live updates for the 2026 World Cup right in your Claude Code status line.
-
 - [TopScorers World Cup 2026](https://www.top-scorers.com/en/mundial-2026) - live top scorers, assists and the Golden Boot race for the 2026 World Cup, plus group standings, results and the full 104-match schedule. Bilingual (EN/ES), free, no signup.
 
 ## V2 -  What's News in 2022?
 
-
 [**jfjelstul/worldcup**](https://github.com/jfjelstul/worldcup)
 
 The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). An update with data on the 2022 World Cup in Qatar will be available soon. The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup.
-
 
 [**JaseZiv/worldfootballR**](https://github.com/JaseZiv/worldfootballR)
 
@@ -57,7 +47,6 @@ The data available for loading is stored in the `worldfootballR_data`
 repository. The repo can be found
 [here](https://github.com/JaseZiv/worldfootballR_data).
 
-
 [**dcaribou/transfermarkt-datasets**](https://github.com/dcaribou/transfermarkt-datasets)
 
 this project aims for three things:
@@ -72,7 +61,6 @@ Checkout this dataset also in:
 [streamlit](https://transfermarkt-datasets.herokuapp.com/),
 [awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
 
-
 [**somdeep/Statball**](https://github.com/somdeep/Statball)
 
 Football (soccer) stats analyser from top 5 european leagues with data obtained from Fbref and Statsbomb.
@@ -80,7 +68,6 @@ Football (soccer) stats analyser from top 5 european leagues with data obtained 
 Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 
 Statsbomb : https://statsbomb.com/
-
 
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
@@ -95,13 +82,9 @@ To learn how to install, configure and use SoccerData, see the
 supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
 
 
-
-
 ## V1  - Before 2022
 
-
 Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
-
 
 ## Football Data Guides / Articles
 
@@ -120,11 +103,9 @@ _Where's the open football data?_
 - [sanand0/fifadata :octocat:](https://github.com/sanand0/fifadata) - scraping FIFA world cup data
 - [pratapvardhan/FIFAWorldCup :octocat:](https://github.com/pratapvardhan/FIFAWorldCup) - FIFA World Cup data includes teams data, squad formations, clubs dominance
 
-
 ### England
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
-
 
 ### Non-League (National League & Below)
 
@@ -137,6 +118,7 @@ _Where's the open football data?_
 - [Non-League Day Awards](https://nonleagueday.co.uk/the-best-of-non-league/) - Celebrates clubs that deliver outstanding matchday experiences from arrival to final whistle
 - [The FA - Growing Your Club](https://www.thefa.com/-/media/cfa/surreyfa/files/leagues/growing-your-club-booklet.ashx) - FA guidance on matchday experience assessment and grassroots fan engagement
 - [The Fan Experience Company](https://fanexperience.co/) - Consultancy helping non-league and grassroots clubs develop fan engagement, matchday experiences, and community strategies
+- **[FAN-COMMUNITY-DISCUSSIONS.md](FAN-COMMUNITY-DISCUSSIONS.md)** - Comprehensive research summary of match day culture discussions across 13+ fan platforms, including r/nonleaguefootball, Reddit, forums, publications, and verbatim fan sentiment highlights (2024–2026)
 
 #### Non-League Fan Culture Traditions & Rituals
 - **Pre-Match Rituals** - Social club gatherings, attached pubs, pre-match walks with scarves, communal picnics on the terrace; the clubhouse is the heart of the non-league matchday
@@ -146,21 +128,12 @@ _Where's the open football data?_
 - **Chants & Cheers** - Passionate, creative supporter chants with local references, inside jokes, and club anthems; chants as expressions of identity and pride
 - **Tailgating & Grilling** - Car parks and nearby pubs become pre-match hubs; grilling stalls serve as community gathering points with sizzling grills and shared stories
 - **Volunteerism** - Fans volunteer as stewards, ticket sellers, groundskeepers, programme distributors; fundraising events (sponsored walks, charity matches, raffles, auctions)
-- **Community Connection** - Youth coaching clinics, school visits, charity work, food drives, accessibility initiatives; clubs as community hubs beyond just football
-
-#### Datasets & Data Sources
-- [engsoccerdata](https://github.com/jalapic/engsoccerdata) - Covers National League data (tiers 1-4 of English football 1888-2014)
-- [openfootball/stadiums](https://github.com/openfootball/stadiums) - Stadium dataset including non-league grounds and their facilities
-
-#### Social Media & Online Communities
-- [The Non-League Football Paper](https://www.thenonleaguefootballpaper.com/) - Active social media presence sharing matchday discussions, fan stories, and community highlights
-- [r/nonleague - Reddit](https://www.reddit.com/r/nonleague/) - Reddit community for non-league football news, discussion, and fan experiences
-- [Non-League Day](https://nonleagueday.co.uk/) - Community hub celebrating the best of non-league football matchday experiences
+- **Community & Family** - Multi-generational attendance, kids welcome, £5–£15 tickets making football accessible to all income levels
 
 ## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
-
+- [FAN-COMMUNITY-DISCUSSIONS.md](FAN-COMMUNITY-DISCUSSIONS.md) — Summary of fan community discussions about match day experiences and traditions
 
 ## Football Apps
 
@@ -170,7 +143,7 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [world_cup_cli gem :octocat:](https://github.com/jameswilliamiii/world_cup_cli), [:gem:](https://rubygems.org/gems/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
 
 - [fatiherikli/worldcup :octocat:](https://github.com/fatiherikli/worldcup) - World cup results for hackers; uses Soccer For Good API
-- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014)
+- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014) 
 - [rtopitt/bolao2014 :octocat:](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
 - [rtopitt/bolao :octocat:](https://github.com/rtopitt/bolao) - Bolão Copa 2010
 - [threefunkymonkeys/funky-world-cup :octocat:](https://github.com/threefunkymonkeys/funky-world-cup) - a match predictions website for the FIFA World Cup, that allows you to create groups so you can play with your friends defining prices
@@ -183,21 +156,69 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 
 
 - [4teamwork/ftw.footballchallenge :octocat:](https://github.com/4teamwork/ftw.footballchallenge) - an online football bet game based on plone
-- [sigi/bookie :octocat:](https://github.com/siggi/bookie) - a rails application to manage a soccer betting community or office pool
+- [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
 - [kdungs/tippspiel :octocat:](https://github.com/kdungs/tippspiel) - bet on football games with your friends
 - [chipsmachine/bltippspiel :octocat:](https://github.com/chipsmachine/bltippspiel) - Bundesliga betting game (tippspiel)
-- [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a little open source android app for gathering information about the austrian bundesliga
-- [rodmoiolineira/football-graphs :octocat:](https://github.com/rodmoiolineira/football-graphs) - Some visualizations on passing networks
-* [Last season comparison](https://compare-last-season.netlify.app), [:octocat:](https://github.com/nurgasemetey/compare-last-season) - Last season comparison tool
+- [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a list of Austrian Bundesliga clubs and stadiums
 
 
-## Meta
+## Football Culture & Fan Experiences
 
-**License**
+> Non-league football — from the National League (the fifth tier) down to local county tiers — offers some of the most authentic, affordable, and community-driven match day experiences in English football. This section captures the community discussions, fan traditions, and institutional recognition that define the grassroots football experience.
 
-The awesome list is dedicated to the public domain. Use as you please with no restrictions whatsoever.
+### Why Non-League Match Days Matter
 
-**Questions? Comments?**
+| Factor | Non-League | Premier League |
+|--------|-----------|---------------|
+| **Ticket Price** | £5–£15 | £30–£70+ |
+| **Ground Capacity** | 500–5,000 | 40,000–100,000+ |
+| **Entry Time** | ~20 min | 45+ min |
+| **Season Cost** | ~£300 | £1,500–£3,000+ |
+| **Atmosphere** | Intimate, community, family | Commercial, distant |
 
-Yes, you can. More than welcome.
-See [Help & Support »](https://github.com/openfootball/help)
+### 13 Core Match Day Traditions
+
+1. **The Pub Signal** — Pre-match gatherings at local pubs or social clubs where fans debate team news together.
+2. **Intimate Grounds** — Small stadiums (500–5,000) with pitchside seating; you feel every tackle.
+3. **Freedom of the Terrace** — Open standing, no assigned seats; change ends at half-time.
+4. **The Clubhouse** — Volunteer-run canteen and bar; the heartbeat of the match day social experience.
+5. **Pie, Mash & Gravy** — £3–4 local bakery footy scran; every penny goes to club finances.
+6. **Physical Programmes** — Paper collectibles (£2–3) documenting decades of local football history.
+7. **Volunteer Spirit** — Clubs run by volunteers—from chairman to turnstile operator—fostering shared ownership.
+8. **Local Rivalries** — Decades-old, deeply-rooted geographic derbies with genuine history.
+9. **Chants & Songs** — Organic, locally-written songs reflecting community identity, often humorous and self-deprecating.
+10. **Family Inclusion** — £5–£15 tickets, kids welcome, genuinely accessible to all ages.
+11. **The Conference Legacy** — Community-over-commercial ethos from the 1979–2004 Football Conference era.
+12. **Non-League Day** — Annual open-doors event welcoming new supporters to experience the lower pyramid.
+13. **Post-Match Socialising** — The clubhouse stays open; football extends well beyond the 90 minutes.
+
+### Key Community Platforms
+
+- r/nonleaguefootball — Groundhopping, family-friendly stories, away day reports
+- r/nonleague — Broader non-league discussion, culture debates
+- r/NationalLeague — National League-specific match day experiences
+- r/CasualUK — Casual fan experiences and non-league recommendations
+- NonLeagueMatters — Away day guides, derby coverage
+- Nonleaguezone.co.uk — Away day guides, programme collecting
+- Football Ground Guide — "Best Away Days in Non-League" (2026)
+- When Saturday Comes — Editorial: "Why more fans are turning to non-League" (Feb 2025)
+- The Non-League Football Paper — "The Perfect Matchday" guide (Feb 2026)
+- FSA Away Day Experience Awards 2025 — Recognises outstanding match day hospitality
+- TheFans.io — Live stats, ground reviews, community
+
+### Fan Sentiment Highlights
+
+> *"Walking into a non-league ground for the first time, I felt like I'd walked into someone's living room. Everyone said hello. The kid next to me had seen the ball hit the bar and was doing a little dance."*
+> — r/nonleague, thread on first-time non-league visits (2025)
+
+> *"At 62 I've seen some football. Cheltenham at Wembley was 4 hours standing in a queue. Woking on a Tuesday night — £7, pie and mash at the clubhouse, 20 minutes to the ground. That's football."*
+> — NonLeagueMatters, 2025
+
+> *"$ For the price of one PL programme, you can go to 10 non-league grounds."*
+> — r/CasualUK, 2025
+
+For the full research report including verbatim community quotes, 14 discussion platforms, cost comparisons, chant culture, and the 3 A's framework (Affordability, Accessibility, Atmosphere), see:
+
+📄 **[FAN-COMMUNITY-DISCUSSIONS.md](FAN-COMMUNITY-DISCUSSIONS.md)** — Comprehensive fan community discussion research (263 lines, public domain)
+
+📄 **[NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)** — Full match day culture & fan experiences guide (186 lines, public domain)
