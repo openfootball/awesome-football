@@ -103,24 +103,36 @@ An annual event (usually coinciding with the international break) encouraging su
 | **TheFans.io** | Groundhopping app and UK guide for beginners |
 | **Footbeen.com** | National League and non-league groundhopping guides |
 | **Football Fanbase Forum** | Match day experience discussions, group coaching topics |
-| **Facebook: Enterprise National League** | Community news, fixtures, and events |
 | **Facebook: Non League Chat** | Fan discussion and sharing across the pyramid |
+| **Facebook: Non League Football** | Grassroots football news and results |
+| **NonLeagueMatters** | Forums for National League discussion, away day guides, programme collecting |
+| **Football Fanbase Forum** | UK non-league football discussion beyond top National League level |
 
 ---
 
 ## Notable Recognition
 
-### FSA Away Day Experience Award (2025 Winners)
-- 🏆 **Falmouth Town AFC** (Southern League Division One South) — Overall Winner
-- 🏆 **FC Halifax Town** (National League Premier)
-- 🏆 **Torquay United** (National League South)
-- 🏆 **Lewes FC** (Isthmian League Premier)
+### FSA Away Day Experience Award
+The Football Supporters' Association annually recognises clubs that deliver the best all-round matchday experience.
+
+**2025 Winners:**
+- 🏆 **Falmouth Town AFC** (2025 Overall Winner — Southern League Division One South)
+- 🏆 **FC Halifax Town** (The Shay, National League Premier)
+- 🏆 **Torquay United** (Plainmoor, National League South)
+- 🏆 **Lewes FC** (The Dripping Pan, Isthmian League Premier)
+
+### Non-League Day
+- Annually held (typically the Saturday before the international break)
+- Premier League and Championship clubs do not play on this day
+- Encourages fans to "support your local club" at any level
+- 2025 date: Saturday 22 March
 
 ### Recent Coverage & Features
-- **"The Perfect Matchday Experience"** — The Non-League Football Paper (Feb 2026): Five essentials guide covering Footy Scran, social clubs, physical programmes, digital engagement, and terrace freedom.
-- **"Why more fans are turning to non-League"** — When Saturday Comes (Feb 2025): Analysis of the attendance boom at Steps 3+ and the cultural draw of grassroots football.
-- **"Best Away Days in Non-League Football: Top 5 Ranked"** — Football Ground Guide (Mar 2026): Ground-level reviews of Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, and Lewes FC.
-- **"Fan Culture and Community Engagement in the National League North"** — ShuttleOne Network / Energeo Project: Deep dive into how NPL North fans build identity and connection.
+1. **"The Perfect Matchday Experience"** — The Non-League Football Paper (Feb 2026): Five essentials guide covering Footy Scran, social clubs, physical programmes, digital engagement, and terrace freedom.
+2. **"Why more fans are turning to non-League"** — When Saturday Comes (Feb 2025): Analysis of the attendance boom at Steps 3+ and the cultural draw of grassroots football.
+3. **"Best Away Days in Non-League Football: Top 5 Ranked"** — Football Ground Guide (Mar 2026): Ground-level reviews of Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, Lewes FC.
+4. **"Fan Culture and Community Engagement in the National League North"** — ShuttleOne Network / Energeo Project: Deep dive into how NPL North fans build identity and connection.
+5. **"From the Clubhouse to the Pitch"** — Non-League Football Paper feature (July 2025).
 
 ---
 
@@ -136,28 +148,16 @@ An annual event (usually coinciding with the international break) encouraging su
 
 ---
 
-## Recommended Reading
+## The Terrace Culture Framework
 
-1. **"The Perfect Matchday: A Beginner's Guide to the Non-League Experience"** — The Non-League Football Paper (Feb 2026)  
-   Covers the five essentials: Footy Scran food culture, social clubs, physical programmes, digital engagement, and terrace freedom.
+As described by [Lower Block](https://lowerblock.com/articles/what-is-football-terrace-culture/) (Jan 2025), football terrace culture is "an enduring subculture that transcends the boundaries of football culture, rooted in passion, identity, and community." Key elements include:
 
-2. **"Fan Culture and Community Engagement in the National League North"** — ShuttleOne Network / Energeo Project  
-   Deep dive into how National League North fans build identity, connection, and tradition in the sixth tier.
+- **Loyalty** — Commitment beyond 90 minutes; an enduring way of life
+- **Fashion & Identity** — The "casuals" movement (1970s–80s) and its influence on terrace style
+- **Community** — Families, generations, social clubs forming lifelong bonds
+- **Creativity** — Wicket banners, choreographed displays, organic chants
 
-3. **"Editorial: Why more fans are turning to non-League's affordable community culture"** — When Saturday Comes (Feb 2025)  
-   Analysis of the attendance boom at Step 3 and the cultural draw of grassroots football.
-
-4. **"Boosting the National League Fan Experience: 7 Golden Tips"** — The Non-League Football Paper (2026)  
-   Practical suggestions for enhancing the match day experience from a fan's perspective.
-
-5. **"How Non-League Has Grown in Popularity"** — Non League Insider (Sep 2024)  
-   Explores the drivers behind the non-league boom: media coverage, quality of football, affordability, accessibility.
-
-6. **"Best Away Days in Non-League Football: Top 5 Ranked"** — Football Ground Guide (Mar 2026)  
-   Ground-level reviews of the best non-league away days: Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, Lewes FC.
-
-7. **"National League Guide: Structure, Promotion and Clubs"** — Football FanBase  
-   Comprehensive guide to the National League, with a dedicated section on supporter culture.
+This framework applies equally to non-league grounds, where the absence of corporate structures means fan identity and community are even more central to the experience.
 
 ---
 
@@ -177,13 +177,17 @@ An annual event (usually coinciding with the international break) encouraging su
 
 ---
 
-## Research Notes
+## Contribution Guidelines
 
-This summary was compiled from open web sources and community discussions as of July 2026. The non-league match day experience is a living, evolving culture. If you have additions, corrections, or new sources, please contribute via pull request to the [openfootball/awesome-football](https://github.com/openfootball/awesome-football) project.
+This document is part of an open, community-driven project. To contribute:
 
-**License:** Public domain (aligned with the awesome-football project's license).
+- **Pull requests** are the primary contribution method to [openfootball/awesome-football](https://github.com/openfootball/awesome-football)
+- The repo uses a **wiki-like model** where content files can be updated by anyone
+- **Corrections, additional sources, and new traditions** are all welcome
+- For questions, use the [openfootball/help repo](https://github.com/openfootball/help) or the [Google Group](http://groups.google.com/group/opensport)
+- License: **Public domain** — use as you please with no restrictions
 
 ---
 
-*Last updated: July 2026 based on community research across multiple platforms and publications.*
-*Sources cited throughout — see sections above for links and references.*
+*Last updated: June 2026 based on community research across multiple platforms and publications.*
+*Research sources cited throughout — see individual sections for links and references.*
