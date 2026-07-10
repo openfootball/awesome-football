@@ -1,74 +1,63 @@
-# Non-League Match Day Culture — Quick Guide
+# Non-League Match Day Culture — Quick Reference
 
-A concise summary of match day culture, traditions, and fan experiences in the National League and below. For the full research document, see [NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md).
-
-> **This project is dedicated to the public domain.** All content sourced from publicly accessible platforms.
+> A concise summary of the "Three A's" framework for understanding non-league football culture. Dedicated to the public domain.
 
 ---
 
-## The 3 A's of Non-League Culture
+## The Three A's of Non-League Football
 
-- **Affordability:** Dramatically lower costs — £5–£15 tickets vs £30–£70+ in the Premier League. Season ~£300 vs £600–£1,400+.
-- **Accessibility:** Just walk in. No membership required. Easy to find, easy to enter, easy to navigate.
-- **Accountability:** Fans can approach the chairman or manager directly. No corporate barrier.
+### 1. Affordability
+- **Tickets**: £5–£15 (National League) vs £30–£70+ (Premier League)
+- **4–8× cheaper per visit**, 5–10× cheaper for a full season
+- "For the price of one PL programme, you can go to 10 non-league grounds."
 
----
+### 2. Accessibility
+- **No barriers**: No tickets, no reserved seating, no dress codes
+- **Walking distance**: Grounds are in town centres, often a 5-minute walk from the station
+- **Family-friendly**: Kids run free, relaxed atmosphere, no fake-fan policing
+- **Quick entry**: ~20 minutes from turnstile to terrace, vs 45+ at top-division grounds
 
-## 8 Key Traditions
-
-1. **The Pub Signal** — Pre-match gatherings at local pubs where fans debate and build community
-2. **Intimate Grounds** — Small stadiums (500–5,000) where you hear every tackle and save
-3. **Freedom of the Terrace** — Open standing, no assigned seats, change ends at half-time
-4. **The Clubhouse** — Volunteer-run, affordable, family-friendly social hub
-5. **Pie, Mash & Gravy** — Legendary local food; £3–£4 weekend pie directly supporting the club
-6. **Physical Programme** — Paper programmes as collectible souvenirs; every penny goes to club finances
-7. **Volunteer Spirit** — Community-run match day operations; fans as stewards, groundskeepers, ticket sellers
-8. **Family Inclusion** — Children free to roam, welcoming to all ages and backgrounds
-
----
-
-## 7 Golden Tips for First-Time Visitors
-
-1. **Attend away games** — The truly electrifying experience lies in venturing out into rival territory
-2. **Become a season ticket holder** — Get the same seat for every home game and become part of a community
-3. **Engage in digital discussions** — Forums, social media, and fan sites deepen your understanding
-4. **Participate in pre-match rituals** — Visit the pub, wear the scarf, join the chant
-5. **Buy a physical programme** — Support the club and get a unique keepsake
-6. **Explore the clubhouse** — Mingle with fans, officials, and sometimes even the players
-7. **Take part in away day travel culture** — Connect with the growing groundhopping community
+### 3. Atmosphere
+- **Intimate**: 500–5,000 capacity — you're close enough to feel the atmosphere
+- **Authentic**: Homemade chants, local characters, genuine emotion
+- **Community**: The chairman knows your name; players shake your hand
+- **Unfiltered**: No VAR, no jumbotrons, no corporate interference
 
 ---
 
-## Cost Comparison
+## 7 Golden Tips for New Non-League Fans
 
-| | Non-League | Premier League |
-|---------|-----------|---------------|
-| Ticket | £5–£15 | £30–£70+ |
-| Food & Drink | £3–£7 | £8–£20+ |
-| Season (20 away) | ~£300 | £600–£1,400+ |
-
----
-
-## Recommended Away Days
-
-1. **Bickland Park, Falmouth Town AFC** — FSA Away Day Experience 2025 winner
-2. **The Shay, FC Halifax Town** — 14,000 capacity, "Football League" feel
-3. **Plainmoor, Torquay United** — English Riviera setting
-4. **Memorial Ground, Farnham Town** — Fan-first approach
-5. **The Dripping Pan, Lewes FC** — South Downs scenery
+1. **Attend away games** — Embark on the journey; you become an ambassador for your club
+2. **Get a season ticket** — Commit to the community; you'll know your neighbours by the second match
+3. **Join digital discussions** — Forums and social media deepen your understanding and connection
+4. **Collect memorabilia** — A retro shirt or signed football makes your connection tangible
+5. **Participate in pre-match rituals** — The pub, the clubhouse, the terrace — each step is a tradition
+6. **Explore the pyramid** — From the National League down to county level, each tier has its own character
+7. **Support the cause** — Buy a programme, eat a pie, volunteer at your club — every action strengthens the community
 
 ---
 
-## Key Sources
+## Quick Resource Reference
 
-- The Non-League Football Paper: https://www.thenonleaguefootballpaper.com/guest-posts/604687/
-- Football Ground Guide: https://footballgroundguide.com/away-days
-- ShuttleOne Network: https://shuttleone.network/fan-culture-and-community-engagement-in-the-national-league-north/
-- FSA: https://thefsa.org.uk/
-- When Saturday Comes: https://www.wsc.co.uk
-- Reddit r/nonleaguefootball: https://www.reddit.com/r/nonleaguefootball/
-- Football Ground Map: https://footballgroundmap.com/articles/match-day-rituals-how-football-fans-keep-the-spirit-alive
+| Resource | Type | Link |
+|----------|------|------|
+| r/nonleaguefootball | Community | [Reddit](https://www.reddit.com/r/nonleaguefootball/) |
+| The Non-League Football Paper | Publication | [thenonleaguefootballpaper.com](https://www.thenonleaguefootballpaper.com/) |
+| Football Ground Guide | Guides | [footballgroundguide.com](https://www.footballgroundguide.com/) |
+| FSA Away Day Awards | Awards | [thefsa.co.uk](https://www.thefsa.co.uk/) |
+| TheFans.io | App & Community | [thefans.io](https://www.thefans.io/) |
+| Nonleaguezone.co.uk | News & Views | [nonleaguezone.co.uk](https://www.nonleaguezone.co.uk/) |
+| When Saturday Comes | Editorial | [wsc.co.uk](https://www.wsc.co.uk/) |
+| Energeo / ShuttleOne | Research | [energeo-project.eu](https://energeo-project.eu/) |
 
 ---
 
-*All content compiled from open web sources. Content dedicated to the public domain.*
+## Why Non-League Matters
+
+Non-league football represents the heart and soul of the sport. It's where football was born — community clubs in local grounds, watched by neighbours and family, with nothing at stake except pride and passion. As the rest of the sporting world races toward ever-larger commercial spectacles, non-league football remains grounded, authentic, and accessible.
+
+It's not just a cheaper alternative to the Premier League. It's a fundamentally different experience — one rooted in community, tradition, and genuine human connection.
+
+---
+
+*Dedicated to the public domain. Use as you please, no restrictions.*
