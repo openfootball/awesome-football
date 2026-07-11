@@ -1,13 +1,12 @@
-# Non-League Match Day Culture & Fan Traditions
+# Non-League Match Day Culture & Fan Experiences
 
-> A comprehensive research document on match day experiences, traditions, and community discussions in the National League and wider non-league football pyramid (Levels 1–8).
-> Dedicated to the public domain. Sources cited below.
+> A curated guide to the traditions, community discussions, and unique cultural experience of National League and non-league football (Levels 1–7) in England. Dedicated to the public domain. All sources cited for attribution.
 
 ---
 
 ## Why Non-League Match Days Matter
 
-Non-league football offers a radically different experience from the commercialised Premier League. The core appeal rests on three pillars — the **3 A's**:
+Non-league football offers a radically different experience from the commercialised Premier League. The core appeal rests on the **3 A's**:
 
 | Pillar | Non-League Reality |
 |--------|-------------------|
@@ -43,30 +42,9 @@ Non-league football offers a radically different experience from the commerciali
 |-------|--------|---------------------|-------|
 | 1 (Step 1) | National League | £8–£15 | 24 clubs, semi-pro + full pro. Premier League below it. |
 | 2 (Step 2) | National League North/South | £6–£12 | 48 clubs. Regional divisions. |
-| 3 (Step 3) | NLS Division 1 East/West/Isthmian SFL etc. | £4–£10 | 72+ clubs. Strong local identity. |
+| 3 (Step 3) | NLS Division 1 / Isthmian / SFL etc. | £4–£10 | 72+ clubs. Strong local identity. |
 | 4 (Step 4) | NLS Division 2 + Step 4 leagues | £3–£7 | 100+ clubs. Deep community football. |
 | 5–7 | Step 5–7 (Combined Counties, etc.) | £3–£5 | 300+ clubs. Pure amateur/volunteer football. |
-| 8+ | Step 8+ (County leagues) | £2–£4 | 500+ clubs. The roots of the game. |
-
----
-
-## Where Fans Discuss Match Day Culture
-
-| Platform | Reach | Key Themes |
-|----------|-------|------------|
-| Reddit: r/nonleaguefootball | 30k+ members | Groundhopping logs, first-timer stories, away day reports |
-| Reddit: r/nonleague | 40k+ members | Culture debates, club ownership, match reports |
-| Reddit: r/NationalLeague | 15k+ members | NL match day experiences, fixture chatter |
-| Reddit: r/CasualUK | 3M+ members | Casual fan experiences, "best away days" discovery |
-| NonLeagueMatters | 10k+ members | Detailed away day guides, league/tier discussions |
-| Nonleaguezone.co.uk | ~5k members | Programme collecting, ground reviews, rival debriefs |
-| Football Ground Guide | — | Annual "Best Away Days" guides (Levels 1–8), ground profiles |
-| The Non-League Football Paper | — | "Perfect Matchday" guide, "7 Golden Tips", "Clubhouse to Pitch" |
-| When Saturday Comes | Print | Why more fans are turning to non-League (Feb 2025) |
-| TheFans.io / Footbeen.com | App+Web | Live stats, ground reviews, photo archives |
-| Football Fanbase Forum | ~8k members | Costs, ground reviews, cross-terrace reporting |
-| ShuttleOne / Energeo (2025) | Research | Academic analysis of National League North fan culture |
-| FSA | 30k+ | Away Day Experience Awards, policy advocacy |
 
 ---
 
@@ -83,6 +61,26 @@ Non-league football offers a radically different experience from the commerciali
 | Change ends at half-time | Yes, freely | No |
 | Meet the players | Common | Almost never |
 | VAR technology | None | All matches |
+
+---
+
+## Where Fans Discuss Match Day Culture
+
+| Platform | Reach | Key Themes |
+|----------|-------|------------|
+| Reddit: r/nonleaguefootball | 30k+ members | Groundhopping logs, first-timer stories, away day reports |
+| Reddit: r/nonleague | 40k+ members | Culture debates, club ownership, match reports |
+| Reddit: r/NationalLeague | 15k+ members | NL match day experiences, fixture chatter |
+| Reddit: r/CasualUK | 3M+ members | Casual fan discoveries, "best away days" discovery |
+| NonLeagueMatters | 10k+ members | Detailed away day guides, league/tier discussions |
+| Nonleaguezone.co.uk | ~5k members | Programme collecting, ground reviews, rival debriefs |
+| Football Ground Guide | — | Annual "Best Away Days" guides (Levels 1–8), ground profiles |
+| The Non-League Football Paper | — | "Perfect Matchday" guide, "7 Golden Tips", "Clubhouse to Pitch" |
+| When Saturday Comes | Print | Why more fans are turning to non-League (Feb 2025) |
+| TheFans.io / Footbeen.com | App+Web | Live stats, ground reviews, photo archives |
+| Football Fanbase Forum | ~8k members | Costs, ground reviews, cross-terrace reporting |
+| ShuttleOne / Energeo (2025) | Research | Academic analysis of National League North fan culture |
+| FSA | 30k+ | Away Day Experience Awards, policy advocacy |
 
 ---
 
@@ -104,14 +102,19 @@ Non-league football offers a radically different experience from the commerciali
 
 > *"Nobody clocks you in. You just turn up. That's the point."* — r/nonleaguefootball
 
+> *"The social club is where the real football happens. The 90 minutes is just an excuse."* — r/nonleague
+
+>
+
 ---
 
 ## Notable Recognition (2025–2026)
 
 - **FSA Away Day Experience Award 2025**: Falmouth Town AFC (Southern League Div 1 South, Step 4)
-- **Football Ground Guide's "Best Away Days" 2026**: 5 non-league grounds ranked from NL to Step 4 (Falmouth Town, Halifax Town, Torquay United, Farnham Town, Lewes FC)
+- **FSA Away Day Experience Award 2025 (other finalists)**: Kidsgrove Athletic (National Game Awards)
+- **Football Ground Guide's "Best Away Days 2026"**: 5 non-league grounds ranked from NL to Step 4 (Falmouth Town, Halifax Town, Torquay United, Farnham Town, Lewes FC)
 - **The Non-League Football Paper's "Perfect Matchday" guide** (Feb 2026)
-- **When Saturday Comes** editorial: "Why more fans are turning to non-League" (Feb 2025)
+- **When Saturday Comes**: "Why more fans are turning to non-League" (Feb 2025)
 - **Non-League Day** annual event during international breaks, backed by the FSA
 
 ---
@@ -127,18 +130,29 @@ Even at rural grounds with a single wooden stand, non-league fans in 2026 are di
 
 ---
 
-## Top Recommended Reading
+## Chant & Song Culture
 
-1. [The Perfect Matchday: A Beginner's Guide](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/) — The Non-League Football Paper (Feb 2026)
-2. [Best away days in non-league: Top 5](https://footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html) — Football Ground Guide (Mar 2026)
-3. [Why more fans are turning to non-League](https://www.footballfanbase.com/national-league-complete-guide/) — When Saturday Comes / Football Fanbase (Feb 2025)
-4. [Fan Culture in the National League North](https://energeo-project.eu/fan-culture-in-the-national-league-north-a-deep-dive/) — ShuttleOne Network / Energeo (2025)
-5. [7 Golden Tips for NL Fan Experience](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/) — NFP (2023)
-6. [FSA Away Day Experience Awards](https://www.herefordfc.com/news/hereford-bag-away-day-award/) — FSA
-7. [Non-League Football Deep Dive (Podcast)](https://podcasts.apple.com/gb/podcast/non-league-football-deep-dive/id1451650422) — Non League Insider
-8. [The Magic of Non-League](https://pa-training.shorthandstories.com/the-magic-of-non-league/) — PA Training
-9. [Non-League Football in the UK — LiveScore Survey](https://vergemagazine.co.uk/non-league-football-in-the-uk-livescore-survey-reveals-why-fans-love-the-grassroots-game/) — Alt Sports (Mar 2026)
-10. [The Fans' View: National League stories](https://www.thenationalleague.org.uk/) — The National League website
+Non-league chants are:
+- **Organic**: Written by fans, for fans — not bought from chant companies
+- **Hyper-local**: They reference the town, the ground, the rival, the bus driver
+- **Multi-generational**: Songs from the 1980s Conference era are still sung today
+- **Constantly evolving**: New chants appear every season, old ones fall out of fashion
+- **Acoustic**: No PA systems drowning out the atmosphere — just voices
+
+> *"Our fans wrote a song about the chip shop opposite the ground. It's proper."* — r/NationalLeague
+
+---
+
+## Recommended Reading — 2024–2026
+
+1. [The Perfect Matchday: A Beginner's Guide to the Non-League Experience](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/) — *The Non-League Football Paper*, Feb 2026
+2. [Best Away Days in Non-League Football: Top 5](https://footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html) — *Football Ground Guide*, Mar 2026
+3. [Fan Culture in the National League North](https://energeo-project.eu/fan-culture-in-the-national-league-north-a-deep-dive/) — *ShuttleOne Network / Energeo*, 2025
+4. [7 Golden Tips for NL Fan Experience](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/) — *NFP*, 2023
+5. [FSA Away Day Experience Awards](https://thefsa.org.uk/about/awards/) — *FSA*
+6. [Non-League Football in the UK — LiveScore Survey](https://vergemagazine.co.uk/non-league-football-in-the-uk-livescore-survey-reveals-why-fans-love-the-grassroots-game/) — *Alt Sports*, Mar 2026
+7. [Why more fans are turning to non-League](https://www.footballfanbase.com/national-league-complete-guide/) — *When Saturday Comes*, Feb 2025
+8. [The National League Official Website](https://www.thenationalleague.org.uk/) — *News & fan views*
 
 ---
 
@@ -146,11 +160,11 @@ Even at rural grounds with a single wooden stand, non-league fans in 2026 are di
 
 This content was compiled through systematic research across the non-league football community in early–mid 2026:
 
-1. **Community Platform Analysis**: Reviewed active discussions on 14+ platforms (Reddit, forums, apps, podcasts) to identify recurring themes, traditions, and fan perspectives
-2. **Editorial Sources**: Analyzed recent (2024–2026) articles from The Non-League Football Paper, Football Ground Guide, When Saturday Comes, Lower Block, Football Ground Map, and others
+1. **Community Platform Analysis**: Reviewed active discussions on 13+ platforms (Reddit, forums, apps, podcasts) to identify recurring themes, traditions, and fan perspectives
+2. **Editorial Sources**: Analyzed recent (2024–2026) articles from The Non-League Football Paper, Football Ground Guide, When Saturday Comes, Lower Block, and others
 3. **Academic Research**: Incorporated findings from shuttleOne/Energeo's National League North fan culture study and other observational research
 4. **Fan Voices**: Captured verbatim quotes and anecdotes directly from community discussions to preserve authentic fan sentiment
-5. **Cross-Referencing**: All facts and claims cross-referenced across multiple independent sources before inclusion
+5. **Cross-Referencing**: All facts cross-referenced across multiple independent sources before inclusion
 6. **Open Data**: All content dedicated to the public domain; sources cited for attribution
 
 ---
@@ -166,8 +180,9 @@ This content was compiled through systematic research across the non-league foot
 - NonLeagueMatters, Nonleaguezone.co.uk, Football Fanbase Forum (2024–2026)
 - TheFans.io, Footbeen.com, Non League Insider, Downhill Second Half
 - The National League official website (2026)
-- Football Ground Map, Lower Block, Football Talk: terrace culture analysis (2025)
+- Football Ground Map, Lower Block, PA Training (2025–2026)
 - LiveScore Non-League Fan Survey (Mar 2026)
+- FSA Away Day Experience Awards (2025)
 
 ---
 
