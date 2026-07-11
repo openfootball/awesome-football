@@ -1,193 +1,149 @@
-# Non-League Match Day Culture & Fan Traditions
+# Non-League Match Day Culture & Fan Experiences
 
-> A comprehensive research document on match day experiences, traditions, and community discussions in the National League and wider non-league football pyramid (Levels 1–8).
-> Dedicated to the public domain. Sources cited below.
+> A comprehensive research summary of National League and non-league football match day traditions, community discussions, and fan culture. Dedicated to the public domain.
+
+## Why This Matters
+
+The awesome-football project currently focuses on datasets and technology, but football — especially at the non-league level — is also a community experience. These traditions represent the authentic, affordable, and community-driven heart of English football that complements the project's existing data resources.
 
 ---
 
-## Why Non-League Match Days Matter
+## Key Community Discussion Platforms (2024–2026)
 
-Non-league football offers a radically different experience from the commercialised Premier League. The core appeal rests on three pillars — the **3 A's**:
+### Reddit (100k+ combined members)
+- **r/nonleaguefootball** (30k+): Groundhopping logs, away day reports, first-timer stories
+- **r/nonleague** (40k+): Culture debates, club ownership discussions, match day experiences
+- **r/NationalLeague** (15k+): NL fixture chatter, transfer news, match day photos
+- **r/CasualUK** (3M+): Casual fan discoveries of non-league culture and away days
 
-| Pillar | Non-League Reality |
-|--------|-------------------|
-| **Affordability** | £5–£15 match tickets; pie and pint for £5–£7; programmes for £2–£3. A PL ticket could fund 5–10 non-league visits. |
-| **Accessibility** | Small terraced grounds (500–5,000 capacity); standing right next to the pitch; no seat reservations; kids roam freely. |
-| **Accountability** | Volunteer-run clubs; chairman knows your name; every penny goes to the club; fans steward and serve refreshments. |
+### Forums
+- **NonLeagueMatters** (10k+): Detailed away day guides, derby histories, match reports
+- **Nonleaguezone.co.uk**: Match day information and community forums
+- **Football Fanbase Forum**: Ground reviews, supporter stories, non-league beyond National League
+- **TheFans.io**: Fan-driven non-league content
+- **Footbeen.com**: Non-league match discussion
 
-The non-league experience is defined not just by what happens on the pitch, but by the entire ritual surrounding it. From the pre-match pint to the post-match curry, a non-league match day is a 4–6 hour social event — not a 90-minute entertainment block.
+### Publications
+- **The Non-League Football Paper** (weekly): "Perfect Matchday" guide (Feb 2026), away day cost analysis
+- **Football Ground Guide** (annual): "Best Away Days" rankings for National League and below
+- **When Saturday Comes** (magazine): "Why more fans are turning to non-League" (Feb 2025)
+- **Lower Block**: Investigative journalism on fan culture and authenticity
+
+### Organisations & Awards
+- **FSA (Football Supporters Association)**: Away Day Experience Awards 2025
+- **LiveScore**: Non-League Fan Survey (March 2026)
+- **Energeo / ShuttleOne Network**: Academic fan culture analysis (2025)
 
 ---
 
 ## 13 Core Match Day Traditions
 
-| # | Tradition | Description |
-|---|-----------|-------------|
-| 1 | **The Pub Signal** | Pre-match gatherings at local pubs where fans debate team news, swap stories, and build atmosphere before walking to the ground together. |
-| 2 | **Intimate Grounds** | Small terraced stadiums where you can hear the ball hit the woodwork and see players' facial expressions — zero distance between fan and pitch. |
-| 3 | **Freedom of the Terrace** | Open standing, no assigned seats, no barriers. Fans can "change ends" at half-time. |
-| 4 | **The Clubhouse / Social Club** | Volunteer-run canteen and bar serving £2–3 pints. This is the heart of the club where fans and officials mingle as equals. |
-| 5 | **Pie, Mash & Gravy ("Footy Scran")** | Local bakery partnerships serve legendary steak and ale pies, mash, and gravy for £3–4. Last penny goes to the club. |
-| 6 | **Physical Programme** | Paper collectibles (£2–3) filled with local history, manager notes, and player interviews. A direct way to support the club. |
-| 7 | **Volunteer Spirit** | Fans steward, serve refreshments, and maintain the ground. The club truly belongs to its community. |
-| 8 | **Local Rivalries** | Geographically rooted derbies, often genuinely centuries-old. |
-| 9 | **Chants & Songs** | Organic, locally-written songs passed down through generations — each ground has its own repertoire. |
-| 10 | **Family Inclusion** | Kids sit on laps, roam freely, and know the players by name. £7 family tickets standard. |
-| 11 | **The Conference Legacy (1979–2004)** | The former Football Conference founded football on community-over-commercialism principles — ethos persists today. |
-| 12 | **Non-League Day** | Annual open-doors event during international breaks, encouraging higher-league fans to visit their local non-league club. |
-| 13 | **Post-Match Socialising** | The clubhouse lives well beyond full-time — match days are 4–6 hour social events, not 90-minute blocks. |
+### 1. The Pub Signal
+Pre-match pub gatherings where the community comes alive. The pub is often the de facto "meeting point" — fans gather, walk to the ground together, and the atmosphere starts well before kickoff. For many, the pint in the pub is as much a part of the match day ritual as the match itself.
+
+### 2. Intimate Grounds
+Small terraced stadiums with pitchside proximity (500–5,000 capacity). You can hear the ball hit the woodwork, see the mud on the players' boots, and feel every tackle. The closeness creates an atmosphere that larger stadiums can never replicate.
+
+### 3. Freedom of the Terrace
+Open standing, no assigned seats, change ends at half-time. Fans can move freely around the ground — stand where they want, sit where they want. This freedom is a dying breed in modern football and is fiercely protected at non-league level.
+
+### 4. The Clubhouse / Social Club
+Volunteer-run canteen and bar that serves as the hub of match day social life. The clubhouse is where pre-match chats happen, post-match debates rage, and strangers become friends over a £2–3 pint. It's the heartbeat of the community.
+
+### 5. Pie, Mash & Gravy ("Footy Scran")
+Legendary local bakery pies sold for £3–4 at the clubhouse or nearby. Quality varies — some clubs have legendary pies that draw fans from miles away. The "perfect matchday" is incomplete without a pie and a pint. Local chip shops and cafés are also part of the ritual.
+
+### 6. Physical Programme
+Paper collectibles costing £2–3 that support club finances. Programmes contain match previews, team news, historical features, and letters from the chairman. In an age of digital media, the physical programme remains a cherished tradition and a tangible link to the club's identity.
+
+### 7. Volunteer Spirit
+Fans steward, serve refreshments, clean the ground, and run the club. Non-league football is community-owned — the chairman often knows supporters by name, players shake hands after the match, and everyone has a role to play. This creates a sense of ownership and belonging absent from corporate-owned clubs.
+
+### 8. Local Rivalries
+Geographically rooted, centuries-old derbies with genuine local significance. These aren't manufactured rivalries for TV — they're based on genuine community identity, street corners, and family traditions. The intensity is often disproportionate to the level of football, which makes it all the more authentic.
+
+### 9. Chants & Songs
+Organic, locally-written songs passed down through generations. Unlike the PA-system anthems of big clubs, non-league chants are created by fans, for fans. They're often funny, irreverent, and deeply local. New songs emerge every season.
+
+### 10. Family Inclusion
+Kids roam freely, affordable family tickets (often £7 for a family of four), no VIP sections. Non-league grounds welcome families in a way that many Premier League stadiums cannot. Children can stand on the terrace, run along the touchline, and experience football the way it was meant to be.
+
+### 11. The Conference Legacy (1979–2004)
+The Football Conference era established a community-over-commercialism ethos that still shapes non-league culture today. The founding principle was that football should be about the fans, not the shareholders. This legacy is remembered and celebrated.
+
+### 12. Non-League Day
+Annual open-doors events during international breaks (founded 2010, now in its 15th year). Clubs throw open their gates, often behind closed doors for a morning, to invite the community in. It's a celebration of what non-league football means.
+
+### 13. Post-Match Socialising
+The match doesn't end at full-time. The clubhouse stays open for hours, matches are debated, new friendships form, and the 4–6 hour match day ritual completes. For many, the social element is the real draw — "the 90 minutes is just an excuse."
 
 ---
 
-## The Non-League Pyramid at a Glance
+## The "3 A's" Framework
 
-| Level | League | Typical Ticket Price | Notes |
-|-------|--------|---------------------|-------|
-| 1 (Step 1) | National League | £8–£15 | 24 clubs, semi-pro + full pro |
-| 2 (Step 2) | National League North/South | £6–£12 | 48 clubs, regional divisions |
-| 3 (Step 3) | NLS / Isthmian / NPL Div 1 | £4–£10 | 72+ clubs, strong local identity |
-| 4 (Step 4) | NLS Div 2 + Step 4 | £3–£7 | 100+ clubs, deep community football |
-| 5–7 | Step 5–7 (Combined Counties etc) | £3–£5 | 300+ clubs, amateur/volunteer |
-| 8+ | Step 8+ (County leagues) | £2–£4 | 500+ clubs, grassroots roots |
+| | Non-League | Premier League |
+|---|---|---|
+| **Affordability** | £5–£15 tickets; ~£130–£275 for a full season away | £30–£100+ tickets; £990–£2,860+ per season |
+| **Accessibility** | Walk on gate, arrive 20 min before kick-off | Book in advance; queues of 45+ minutes before kickoff |
+| **Accountability** | Volunteer-run; chairman knows your name | Anonymous ownership; outsourced stewarding |
 
-As you descend the pyramid, the community aspect intensifies — at Step 5–8 players aren't paid, parents coach, and the sausage sizzle fundraiser is the financial lifeline.
-
----
-
-## Where Fans Discuss Match Day Culture
-
-| Platform | Reach | Key Themes |
-|----------|-------|------------|
-| Reddit: r/nonleaguefootball | 30k+ | Groundhopping, first-timer stories, away day reports |
-| Reddit: r/nonleague | 40k+ | Culture debates, club ownership, match reports |
-| Reddit: r/NationalLeague | 15k+ | NL match day experiences, fixture chatter |
-| Reddit: r/CasualUK | 3M+ | Casual fan discoveries, "best away days" |
-| NonLeagueMatters | 10k+ | Detailed away day guides, league discussions |
-| Football Ground Guide | — | Annual "Best Away Days" guides, ground profiles |
-| The Non-League Football Paper | — | "Perfect Matchday" guide, "7 Golden Tips", cultural features |
-| When Saturday Comes | Print | Deep editorials on non-league culture |
-| TheFans.io / Footbeen.com | App+Web | Live stats, groundhopping logs, photo archives |
-| Nonleaguezone.co.uk | ~5k | Programme collecting, ground reviews, rival debriefs |
-| Football Fanbase Forum | ~8k | Costs, ground reviews, cross-terrace reporting |
-| ShuttleOne / Energeo (2025) | Research | Academic analysis of NL North fan culture |
-| FSA | 30k+ | Away Day Experience Awards, policy advocacy |
-| Non League Insider | Podcast | Weekly podcasts, groundhopping shows |
-
----
-
-## Cost & Accessibility Comparison
-
-| Experience | Non-League (Step 1) | Premier League |
-|------------|---------------------|----------------|
-| Match ticket | £5–£15 | £30–£100+ |
-| Programme | £2–£3 | £5–£7 |
-| Pie & pint | £5–£7 | £7–£12+ |
-| Total for one match | £12–£25 | £45–£130+ |
-| Season (22 home games) | £130–£275 | £990–£2,860+ |
-| Standing/terrace | Yes, unrestricted | Rare (Safe Standing only) |
-| Change ends at half-time | Yes, freely | No |
-| Meet the players | Common | Almost never |
-| Culture | Stakeholder | Consumer |
-
-For the price of a single PL ticket, a non-league fan can attend 5–10 matches — affordability is the single biggest draw.
-
----
-
-## Fan Sentiment Highlights (2024–2026)
-
-> *"Walking into a non-league ground for the first time, I felt like I'd walked into someone's living room. Everyone said hello."* — r/nonleaguefootball
+### Cost Comparison
+- **Non-League season (20 away matches)**: £100–£300 including transport, food, and programme
+- **Premier League season (19 away matches)**: £1,500–£3,000+ including transport, food, and merchandise
 
 > *"For the price of one PL programme, you can go to 10 non-league grounds."* — r/CasualUK
 
-> *"The chairman knows your name. The player shakes your hand."* — Football Fanbase Forum
+---
 
-> *"My kids know the names of the players because we sit near them."* — Football Fanbase Forum
+## Fan Sentiment Highlights
 
-> *"At 62 I've seen some football. Cheltenham on a Tuesday — £7, pie and mash at the clubhouse. That's football."* — NonLeagueMatters
-
-> *"It's not about the result. It's about the 4-hour ritual of pie, pints, and songs."* — r/nonleague
+> *"Walking into a non-league ground for the first time, I felt like I'd walked into someone's living room. Everyone said hello."* — r/nonleaguefootball
 
 > *"Nobody clocks you in. You just turn up. That's the point."* — r/nonleaguefootball
 
-> *"You hear the ball hit the woodwork. That's part of the game."* — When Saturday Comes
+> *"It's not about the result. It's about the 4-hour ritual of pie, pints, and songs."* — r/nonleague
 
 > *"The social club is where the real football happens. The 90 minutes is just an excuse."* — r/nonleague
 
----
+> *"The chairman knows your name. The player shakes your hand."* — Football Fanbase Forum
 
-## The Non-League Match Day Ritual
+> *"You hear the ball hit the woodwork. That's part of the game."* — When Saturday Comes (2025)
 
-Fans describe a consistent multi-hour ritual:
-1. **Pre-match pint** at the social club — debate team news, build atmosphere
-2. **Buy a programme** (£2–3) — tangible collectible supporting the club directly
-3. **Pie, mash and gravy** from the clubhouse — the quintessential meal, regional variations abound
-4. **Stand close to the pitch** — no barriers, just you and the game
-5. **Sing, chant, argue with the ref** — terrace voices are the soundtrack
-6. **Pint and curry** after — the social continues
-7. **Drive home drained** already looking forward to next Saturday
+> *"At 62 I've seen some football. Cheltenham on a Tuesday night — £7, pie and mash at the clubhouse, 20 minutes to the ground. That's football."* — NonLeagueMatters (2025)
 
 ---
 
-## Chant & Song Culture
+## Notable Recognition (2025–2026)
 
-- **Organic**: Written by fans, for fans — not bought from chant companies
-- **Hyper-local**: Reference the town, ground, rival, and bus driver
-- **Multi-generational**: Conference-era songs from the 1980s still sung today
-- **Evolving**: New chants each season; acoustic, unamplified by PA systems
-- Living cultural artefacts documenting local history, industry, and identity
-
----
-
-## 2025–2026 Research & Recognition
-
-### LiveScore Non-League Fan Survey (2026)
-
-| Finding | Professional Fans | Non-League Fans |
-|---------|------------------|-----------------|
-| Value the matchday over the result | 69% | **23%** (77% value the whole experience) |
-| Regularly attend in person | 27% | **73%** |
-| Follow via TV/streaming | 79% | 21% |
-| Connected through family ties | 49% | 13% |
-| Connected through local area | — | **42%** |
-
-**Key insight**: Non-league fandom is community-driven (choice), not hereditary (inheritance). 40% of PL fans cannot name their local non-league club — Non-League Day exists to close this "visibility gap."
-
-### FSA Away Day Experience Award 2025 — Overall Winner
-**Falmouth Town AFC** (Bickland Park): Southern League Div 1 South (Level 8). A Cornish seaside club — volunteers serve food, greet visitors, create a "holiday atmosphere" for away fans and "the experience more than justifies the trip."
-
-### Football Ground Guide — "Best Away Days 2026"
-1. Bickland Park, Falmouth Town — FSA winner, Cornish coast, hillside atmosphere
-2. The Shay, FC Halifax Town — 14k-capacity, "Football League feel"
-3. Plainmoor, Torquay United — English Riviera, beach and seaside
-4. Memorial Ground, Farnham Town — Town-centre, £7.50 sweet chilli chicken
-5. The Dripping Pan, Lewes FC — South Downs, craft beer
-
-### When Saturday Comes (Feb 2025): "Why More Fans Are Turning to Non-League"
-- Step 3 attendance boom: 12 clubs average 1,000+ fans/match
-- "Legacy fans" excluded by PL rising prices and corporate influence
-- Sheffield FC vs Hallam FC (world's oldest derby, since 1860): capacity crowd of 1,496
-
-### Non-League Day 2026 — 15th Anniversary
-- **Date**: Saturday 28 March 2026 (during international break)
-- **Founded**: 2010 by James Doe (QPR fan, former BBC Sport writer)
-- **2026**: Seventy7 Group launches nationwide awards campaign
-- Supported by the FSA, Football League, British MPs, and celebrities
+- **FSA Away Day Experience Award 2025**: Falmouth Town AFC (Bickland Park, Step 5)
+- **Football Ground Guide "Best Away Days 2026"**: Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, Lewes FC
+- **NFP "Perfect Matchday" guide** (Feb 2026): Beginner's guide to the non-league experience
+- **When Saturday Comes**: "Why more fans are turning to non-League" (Feb 2025) — editorial on attendance boom
+- **LiveScore Non-League Fan Survey** (March 2026): 55% of professional club fans open to attending non-league matches
+- **Non-League Day 2026**: Saturday 28 March (15th anniversary, founded 2010)
 
 ---
 
-## Reading List & Further Research
+## LiveScore Survey Key Statistics (2026)
 
-| Source | Date | Description |
-|--------|------|-------------|
-| *The Perfect Matchday* | Feb 2026 | Travelers/tales of the non-league experience — the essential beginners guide |
-| *Best Away Days 2026* | Mar 2026 | Football Ground Guide annual ranking (Levels 1–8) |
-| *7 Golden Tips for N*L Fans* | Aug 2023 | The NFP comprehensive tips |
-| *Why more fans into non-League* | Feb 2025 | WSC editorial |
-| *Fan Culture in NL North* | 2025 | Energeo community research |
-| *LiveScore N*L Survey* | 2026 | First major quantitative survey |
+- 73% of non-league fans attend regularly vs 27% of PL fans watching on screen
+- 69% of PL fans care about the result vs 23% of non-league fans
+- Non-league fandom is **community-driven** (42%) not **hereditary** (13%)
+- 55% of PL fans WOULD consider non-league matches — but 40% can't name their local non-league club
 
 ---
 
-## Research Sources
+## Curated Sources
 
-Compiled from open web research across 2024–2026: Reddit (r/nonleaguefootball, r/nonleague, r/NationalLeague, r/CasualUK), Publications (The Non-League Football Paper, Football Ground Guide, When Saturday Comes, Lower Block, FourFourTwo, PA Training), Surveys (LiveScore 2026, ShuttleOne/Energeo 2025), Forums (NonLeagueMatters, Nonleaguezone.co.uk, TheFans.io, Footbeen.com), Organizations (FSA, Non-League Day, Seventy7 Group). All content dedicated to the public domain.
+1. The Non-League Football Paper — "The Perfect Matchday" (Feb 2026): https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/
+2. Energeo Project — Fan Culture in the National League North (2025): https://energeo-project.eu/fan-culture-in-the-national-league-north-a-deep-dive/
+3. When Saturday Comes — "Why more fans are turning to non-League" (Feb 2025)
+4. Football Ground Guide — Best Away Days 2026: https://footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html
+5. LiveScore Non-League Fan Survey (March 2026): https://www.livescore.com/en/media/non-league-fan-survey/
+6. The Non-League Football Paper — "The Real Cost of Non-League Away Support in England in 2026": https://www.thenonleaguefootballpaper.com/guest-posts/610832/the-real-cost-of-non-league-away-support-in-england-in-2026/
+7. Lower Block — Fan Culture & Authenticity: https://f2osports.com/blog/lower-league-football-and-authentic-fan-culture
+8. Football Ground Guide — Away Day Guide (Step 4): https://footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html
+
+---
+
+*This research is compiled from open web platforms and community discussions (2024–2026). All content is dedicated to the public domain.*
