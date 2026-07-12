@@ -1,6 +1,6 @@
 Awesome Series @ Planet Open Data
 
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
 [Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
@@ -82,7 +82,6 @@ Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 Statsbomb : https://statsbomb.com/
 
 
-
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
 SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
@@ -100,7 +99,6 @@ supported data sources, see the `example notebooks <https://soccerdata.readthedo
 
 
 ## V1  - Before 2022
-
 
 Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
@@ -140,6 +138,79 @@ _Where's the open football data?_
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
+## ⚽ Football Culture & Fan Experiences
+
+Non-league (National League and below) football offers some of the most authentic, affordable, and community-driven match day experiences in English football. This section documents the unique traditions, community practices, and fan culture that make lower-league football special — alongside the project's existing data and technology resources.
+
+### The "3 A's" Framework
+
+Collaboratively identified by the non-league community as the defining characteristics that distinguish non-league from elite football:
+
+| | **Non-League** | **Premier League** |
+|---|---|---|
+| **Affordability** | £5–£15 tickets; pie & pint ~£5–£7; programmes £2–£3 | £30–£100+ tickets; £1,500–£3,000+ for 20 away days |
+| **Accessibility** | Walk-on gate, 20 min before kick-off; small terraced grounds (500–5,000) | Book in advance; 45+ min queues; large distant stadiums |
+| **Accountability** | Volunteer-run; chairman knows your name; fans steward and serve | Anonymous corporate ownership; market-driven pricing |
+
+A season of 20 away matches costs ~£300 at non-league vs £1,500–£3,000+ at the Premier League.
+
+### 13 Core Match Day Traditions
+
+1. **The Pub Signal** — Pre-match pub gatherings where the community converges
+2. **Intimate Grounds** — Small terraced stadiums (500–5,000) with pitchside proximity
+3. **Freedom of the Terrace** — Open standing, change ends at half-time, no assigned seats
+4. **The Clubhouse / Social Club** — Volunteer-run canteen/bar, £2–3 pints, fans mingle as equals
+5. **Pie, Mash & Gravy ("Footy Scran")** — £3–4 legendary local bakery pies, every penny to the club
+6. **Physical Programme** — Paper collectibles (£2–3) with local history, direct financial support
+7. **Volunteer Spirit** — Community-owned operations, fans steward and serve
+8. **Local Rivalries** — Deep-rooted geographic derbies with generations of history
+9. **Chants & Songs** — Organic, locally-written, multi-generational
+10. **Family Inclusion** — Kids roam freely, £7 family tickets, relaxed atmosphere
+11. **The Conference Legacy (1979–2004)** — Community-over-commercialism founding ethos
+12. **Non-League Day** — Annual open-doors events during international breaks
+13. **Post-Match Socialising** — 4–6 hour match day rituals, clubhouse stays open beyond full-time
+
+### Key Fan Sentiment
+
+> *"Walking into a non-league ground for the first time, I felt like I'd walked into someone's living room. Everyone said hello."* — r/nonleaguefootball
+
+> *"For the price of one PL programme, you can go to 10 non-league grounds."* — r/CasualUK
+
+> *"Nobody clocks you in. You just turn up. That's the point."* — r/nonleaguefootball
+
+> *"The chairman knows your name. The player shakes your hand."* — Football Fanbase Forum
+
+> *"The atmosphere is intimate, affordable, and refreshingly honest."* — The Non-League Football Paper, 2026
+
+### Notable Recognition (2025–2026)
+
+- **FSA Away Day Experience Award 2025**: Falmouth Town AFC (Bickland Park) — Overall Winner
+- **Football Ground Guide "Best Away Days 2026"**: Falmouth Town, Halifax Town, Torquay United, Farnham Town, Lewes FC
+- **NFP "The Perfect Matchday" guide** (Feb 2026)
+- **When Saturday Comes**: "Why more fans are turning to non-League" (Feb 2025)
+- **LiveScore 2026 Survey**: 55% of PL fans open to attending non-league matches
+
+### Key Community Platforms
+
+- **Reddit**: r/nonleaguefootball (30k+), r/nonleague (40k+), r/NationalLeague (15k+), r/CasualUK (3M+)
+- **Forums**: NonLeagueMatters, Nonleaguezone.co.uk, TheFans.io, Footbeen.com
+- **Publications**: The Non-League Football Paper, Football Ground Guide, When Saturday Comes, Lower Block
+- **Research**: Energeo Fan Culture Study (2025), ShuttleOne Network, LiveScore NL Fan Survey (2026)
+- **Organisations**: FSA Away Day Experience Awards, Football Ground Guide
+
+### Recommended Away Days (2026)
+
+1. **Falmouth Town (Bickland Park)** — FSA Away Day Award Winner
+2. **Halifax (The Shay)** — Historic ground with great atmosphere
+3. **Torquay United (Plainmoor)** — Classic seaside football
+4. **Farnham Town (Kelbredder Park)** — Charming community ground
+5. **Lewes (The Dripping Pan)** — Unique hilltop ground
+6. **Chesterfield (SMH Group Stadium)** — Modern facility with excellent fan ratings
+
+### Full Research Documents
+
+- **[NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)** — Comprehensive 13-tradition research guide with cost comparisons, away day recommendations, and curated reading list
+- **[FAN-COMMUNITY-DISCUSSIONS.md](FAN-COMMUNITY-DISCUSSIONS.md)** — Analysis of 14+ community discussion platforms with verbatim quotes and research findings
 
 ## Football Apps
 
