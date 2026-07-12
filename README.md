@@ -65,8 +65,12 @@ Non-league football offers an authentic, affordable, and community-driven match 
 | Football Ground Guide | Publication |
 | When Saturday Comes | Publication |
 
-### Where to Explore Further
+### Key Research Documents
 
-A comprehensive research document covering all 13 traditions, the non-league pyramid structure, cost comparisons, regional variations, the match day ritual sequence, and a curated reading list is available in **[NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)**.
+- **[NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)** — Comprehensive 12-tradition research document with cost comparisons, fan quotes, the Perfect Match Day Ritual, regional variations, and recommended reading sources
+- **[FAN-COMMUNITY-DISCUSSIONS.md](FAN-COMMUNITY-DISCUSSIONS.md)** — Dedicated community voices document cataloguing 14+ discussion platforms, key recurring themes with verbatim quotes, the 3 A's framework, chant culture, volunteer spirit, and regional variations
+- **[NON-LEAGUE-MATCHDAY-CULTURE-SUMMARY.md](NON-LEAGUE-MATCHDAY-CULTURE-SUMMARY.md)** — Concise research summary of all findings, sources used, and recommendations for new fans
 
 ---
+
+## V3 — What's News in 2026?
