@@ -18,7 +18,7 @@ Non-league football is defined by three core advantages over the commercialised 
 | Dimension | Non-League | Premier League |
 |-----------|-----------|---------------|
 | **Affordability** | £5–£15 match tickets; pie and pint for £5–£7; programmes for £2–£3. A PL ticket could fund 5–10 non-league visits. | £30–£100+ match tickets; £1,500–£3,000+ for 20 away days. |
-| **Accessibility** | Walk-on gate, 20 min before kick-off. Small terraced grounds (500–5,000 capacity). Kids roam freely. No assigned seats. | Book in advance; 45+ min queues. Large stadiums; distant terraces. |
+| **Accessibility** | Walk-on gate, 20 min before kick-off. Small terraced stadiums (500–5,000 capacity). Kids roam freely. No assigned seats. | Book in advance; 45+ min queues. Large stadiums; distant terraces. |
 | **Accountability** | Volunteer-run; chairman knows your name. Every penny goes to the club. Fans steward and serve. | Anonymous corporate structures. Ticket prices set by market algorithms. |
 
 ---
