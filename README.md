@@ -67,6 +67,18 @@ Non-league football offers an authentic, affordable, and community-driven match 
 
 ### Where to Explore Further
 
-A comprehensive research document covering all 13 traditions, the non-league pyramid structure, cost comparisons, regional variations, the match day ritual sequence, and a curated reading list is available in **[NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)**.
+A comprehensive research document covering all 13 traditions, the non-league pyramid structure, cost comparisons, regional variations (North, Midlands, South West, London, Grassroots), the "Perfect Match Day Ritual" sequence, digital evolution, Non-League Day, FSA Awards, and a full source bibliography is available in **[NON-LEAGUE-COMMUNITY-CULTURE.md](NON-LEAGUE-COMMUNITY-CULTURE.md)**.
+
+### How the Project Accepts Contributions
+
+Per the README: *"Contributions welcome. Anything missing? Send in a pull request. Thanks."*
+
+- **PR-based submission** — Fork the repo, create a branch, and submit a pull request
+- **Public domain** — All content is dedicated to the public domain; use it as you please with no restrictions
+- **Both data/tech and cultural content welcome** — This Football Culture section complements the existing datasets and apps
+- **Questions?** — See [openfootball/help](https://github.com/openfootball/help) and the Google Group (opensport)
+- **CONTRIBUTING.md** — See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines for this project
 
 ---
+
+*See [NON-LEAGUE-COMMUNITY-CULTURE.md](NON-LEAGUE-COMMUNITY-CULTURE.md) for the full research document including complete source bibliography.*
