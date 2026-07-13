@@ -1,6 +1,6 @@
 # Non-League Match Day Culture & Fan Experiences
 
-A comprehensive research summary documenting the unique traditions, community practices, and match day experiences of National League and non-league football in England.
+A concise summary of the unique traditions, community practices, and match day experiences of National League and non-league football in England.
 
 ---
 
@@ -10,29 +10,29 @@ A comprehensive research summary documenting the unique traditions, community pr
 |-----------|-----------|---------------|
 | **Affordability** | £5–£15 tickets; ~£300 for 20 away | £30–£100+ tickets; £1,500–£3,000+ |
 | **Accessibility** | Walk-on gate, 20 min before kick-off | Book in advance; 45+ min queues |
-| **Accountability** | Volunteer-run; chairman knows your name |
+| **Accountability** | Volunteer-run; chairman knows your name | Anonymous corporate ownership |
 
 ---
 
 ## 13 Core Match Day Traditions
 
-1. **The Pub Signal** — Pre-match pub gatherings
-2. **Intimate Grounds** — Small terraced stadiums (500–5,000 capacity)
-3. **Freedom of the Terrace** — Open standing, change ends at half-time
-4. **The Clubhouse / Social Club** — Volunteer-run, £2–3 pints
-5. **Pie, Mash & Gravy ("Footy Scran")** — £3–4 local bakery pies
-6. **Physical Programme** — £2–3 collectibles with local history
+1. **The Pub Signal** — Pre-match pub gatherings where the community converges
+2. **Intimate Grounds** — Small terraced stadiums (500–5,000 capacity) with pitchside proximity
+3. **Freedom of the Terrace** — Open standing, change ends at half-time, no barriers
+4. **The Clubhouse / Social Club** — Volunteer-run canteen/bar, £2–3 pints
+5. **Pie, Mash & Gravy ("Footy Scran")** — £3–4 local bakery pies supporting the club
+6. **Physical Programme** — £2–3 paper collectibles with local history
 7. **Volunteer Spirit** — Community-owned; chairman knows your name
 8. **Local Rivalries** — Deep-rooted geographic derbies
-9. **Chants & Songs** — Organic, locally-written
+9. **Chants & Songs** — Organic, locally-written, multi-generational
 10. **Family Inclusion** — Kids roam freely, £7 family tickets
-11. **The Conference Legacy (1979–2004)** — Community ethos
+11. **The Conference Legacy (1979–2004)** — Community-over-commercialism ethos
 12. **Non-League Day** — Annual open-doors events
-13. **Post-Match Socialising** — 4–6 hour rituals
+13. **Post-Match Socialising** — 4–6 hour match day rituals
 
 ---
 
-## Fan Sentiment
+## Fan Sentiment Highlights
 
 > *"Walking into a non-league ground for the first time, I felt like I'd walked into someone's living room. Everyone said hello."* — r/nonleaguefootball
 
