@@ -114,34 +114,35 @@ The match day ritual doesn't end at full-time — clubhouse stays open for 4–6
 ## Community Discussion Platforms
 
 ### Reddit (100k+ combined)
-- r/nonleaguefootball (30k+)
-- r/nonleague (40k+)
-- r/NationalLeague (15k+)
-- r/CasualUK (3M+)
+- [r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball/) (30k+)
+- [r/nonleague](https://www.reddit.com/r/nonleague/) (40k+)
+- [r/NationalLeague](https://www.reddit.com/r/NationalLeague/) (15k+)
+- [r/CasualUK](https://www.reddit.com/r/CasualUK/) (3M+)
 
 ### Forums
-- NonLeagueMatters
-- Nonleaguezone.co.uk
-- TheFans.io
-- Footbeen.com
-- Football Fanbase Forum
+- [NonLeagueMatters](https://www.nonleaguematters.co.uk/forums/)
+- [Nonleaguezone.co.uk](https://nonleaguezone.proboards.com/)
+- [TheFans.io](https://thefans.io)
+- [Footbeen.com](https://footbeen.com)
+- [Football Fanbase Forum](https://www.footballfanbaseforum.com)
 
-### Publications
-- The Non-League Football Paper (2026)
-- Football Ground Guide (2026)
-- When Saturday Comes (2025)
-- Lower Block
-- Energeo Project
+### Publications & Organisations
+- [The Non-League Football Paper](https://www.thenonleaguepaper.co.uk/) (2026)
+- [Football Ground Guide](https://www.footballgroundguide.com/) (2026)
+- [When Saturday Comes](https://www.wsc.co.uk/) (2025)
+- [Lower Block](https://lowerblock.co.uk/) — Evolution of British football fan culture
+- [FSA Away Day Experience Awards](https://www.thefsa.org.uk/)
+- [LiveScore NL Fan Survey](https://www.livescore.com/) (2026)
 
 ---
 
 ## Regional Variations
 
 - **North West**: Strong terrace culture, industrial heritage
+- **North East**: Working-class roots, resilient clubs
+- **Midlands**: Footballing heartland, deep traditions
 - **South West**: Coastal towns, family-friendly, growing groundhopping
 - **London**: Diverse communities, historic clubs
-- **Midlands**: Footballing heartland, deep traditions
-- **North East**: Working-class roots, resilient clubs
 - **South East**: London fringe, commuter belt, growing fanbases
 
 ---
@@ -169,16 +170,16 @@ The match day ritual doesn't end at full-time — clubhouse stays open for 4–6
 
 ## Curated Reading List
 
-1. The Non-League Football Paper
-2. Football Ground Guide
-3. When Saturday Comes
-4. Lower Block
-5. Energeo Fan Culture Study (2025)
-6. ShuttleOne Network
-7. LiveScore NL Fan Survey (Mar 2026)
-8. FSA Away Day Experience Awards
-9. National League Wikipedia
-10. WSC Editorial: "Why more fans are turning to non-League" (Feb 2025)
+1. [The Non-League Football Paper](https://www.thenonleaguepaper.co.uk/)
+2. [Football Ground Guide](https://www.footballgroundguide.com/)
+3. [When Saturday Comes](https://www.wsc.co.uk/)
+4. [Lower Block](https://lowerblock.co.uk/)
+5. [Energeo Fan Culture Study (2025)](https://shuttleone.network/)
+6. [ShuttleOne Network](https://shuttleone.network/)
+7. [LiveScore NL Fan Survey (Mar 2026)](https://www.livescore.com/)
+8. [FSA Away Day Experience Awards](https://www.thefsa.org.uk/)
+9. [National League — Wikipedia](https://en.wikipedia.org/wiki/National_League_(English_football))
+10. [WSC: "Why more fans are turning to non-League" (Feb 2025)](https://www.wsc.co.uk/)
 
 ---
 

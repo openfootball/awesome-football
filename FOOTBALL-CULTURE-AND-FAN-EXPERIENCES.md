@@ -1,6 +1,6 @@
 # Football Culture & Fan Experiences
 
-> 🏟️ **Non-League Match Day Culture & Community Discussions** — A summary of National League and non-league football fan traditions, match day experiences, and where fans share their stories.
+> ⚽ **Non-League Match Day Culture & Community Discussions** — A summary of National League and non-league football fan traditions, match day experiences, and where fans share their stories.
 
 *Content dedicated to the public domain. Research compiled from open web sources and community discussions (2024–2026).*
 
@@ -74,19 +74,20 @@ Where fans discuss, share, and celebrate non-league match day culture:
 | **Reddit: r/CasualUK** | Casual football culture, including non-league |
 | **NonLeagueMatters (forum)** | In-depth discussions, ground reviews, historical content |
 | **Nonleaguezone.co.uk** | Club news, fan forums, match day reports |
+| **TheFans.io** | Fan experiences and community stories |
+| **Footbeen.com** | British football news and opinion |
 | **Football Fanbase Forum** | Fan experiences and community stories |
 
-**Publications**: The Non-League Football Paper, Football Ground Guide, When Saturday Comes, The Non-League Football Paper's "The Perfect Matchday" (Feb 2026)
-
-**Organizations**: FSA Away Day Experience Awards, TheFans.io, Footbeen.com, Non League Insider
+**Publications:** The Non-League Football Paper, Football Ground Guide, When Saturday Comes (2025), Lower Block  
+**Organisations:** FSA Away Day Experience Awards, LiveScore NL, ShuttleOne Network / Energeo
 
 ---
 
 ## Notable Recognition
 
-- **FSA Away Day Experience Awards 2025** — Falmouth Town won overall; FC Halifax Town, Torquay United, Lewes FC, and Farnham Town also recognized.
+- **FSA Away Day Experience Awards 2025** — Falmouth Town won overall; FC Halifax Town, Torquay United, Lewes FC, and Farnham Town also recognised.
 - **Football Ground Guide 2026** — Comprehensive away day guides covering non-league grounds.
-- **When Saturday Comes** — Editorial feature on non-league match day culture (Feb 2025).
+- **When Saturday Comes** — Editorial feature on non-league match day culture (2025).
 - **ShuttleOne Network / Energeo** — Fan culture analysis published (2025).
 
 ---
@@ -111,7 +112,7 @@ Where fans discuss, share, and celebrate non-league match day culture:
 | Fan experience data | ❌ No structured dataset exists |
 | Community discussion archives | ❌ No scraped/structured Reddit/forum data |
 
-**Gap identified**: There is no open dataset capturing non-league fan experiences, match day traditions, or community discussion sentiment. This would be a valuable contribution to the project.
+**Gap identified:** There is no open dataset capturing non-league fan experiences, match day traditions, or community discussion sentiment. This would be a valuable contribution to the project.
 
 ---
 
