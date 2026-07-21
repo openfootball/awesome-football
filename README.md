@@ -1,7 +1,7 @@
 Awesome Series @ Planet Open Data
 
 [World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
-[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
+[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) • 
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
 
@@ -82,7 +82,6 @@ Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 Statsbomb : https://statsbomb.com/
 
 
-
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
 SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
@@ -92,8 +91,7 @@ and identifiers across datasets. Data is downloaded when needed and cached
 locally.
 
 To learn how to install, configure and use SoccerData, see the
-`Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the
-supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
+`Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
 
 
 
@@ -122,11 +120,9 @@ _Where's the open football data?_
 - [sanand0/fifadata :octocat:](https://github.com/sanand0/fifadata) - scraping FIFA world cup data
 - [pratapvardhan/FIFAWorldCup :octocat:](https://github.com/pratapvardhan/FIFAWorldCup) - FIFA World Cup data includes teams data, squad formations, clubs dominance
 
-
 ### England
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
-
 
 ### Misc
 
@@ -140,44 +136,61 @@ _Where's the open football data?_
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
+## ⚽ Football Culture & Fan Experiences
+
+> A comprehensive guide to National League and wider non-league football match day traditions, community experiences, and fan culture. [Read the full research document →](NON-LEAGUE-MATCHDAY-CULTURE.md)
+
+### Non-League vs Premier League: At a Glance
+
+| | Non-League | Premier League |
+|---|---|---|
+| Match ticket | £5–15 | £30–100+ |
+| Full away day | £12–27 | £50–130 |
+| Cost advantage | **4–8× cheaper** | — |
+| Fans attending in person | **73%** | 21% |
+
+### The 3 A's Framework
+
+- **Affordability** — Non-league is 4–8× cheaper than the Premier League
+- **Accessibility** — Walk-on gates, no ticket lotteries, no membership queues
+- **Accountability** — Volunteer-run clubs; chairman sits beside you; manager in the bar at half-time
+
+### 13 Core Match Day Traditions
+
+1. **The Pub Signal** — Scarf on the doorknob, 90 min before kick-off
+2. **The Walk to Ground** — 5–15 min stroll with pre-match banter
+3. **The Turnstile Ritual** — Drop coins in the slot; friendly nod from the steward
+4. **Pie, Mash & Gravy** — The undisputed king of "footy scran"
+5. **The Social Club** — Volunteer-run, sponsorship-free pints
+6. **The Terraces** — Standing where you like, chanting freely, no segregation
+7. **Manager's Half-Time Chat** — Managers address the crowd from the tunnel
+8. **Post-Match Digestion** — Lingering to soak up the atmosphere
+9. **The Pub Finish** — Debating the result with pundit intensity
+10. **Away Day Reception** — Home fans welcoming opponents with hospitality
+11. **Community Connection** — Players/managers know fans by name
+12. **The Loyalty Cycle** — Following through promotion, relegation, everything
+13. **The 12th Man Spirit** — Volunteer stewards, groundsmen, bar staff who are fans first
+
+### Fan Quote
+
+> *"Walk into any non-league ground on a Saturday afternoon and you'll see it: handshakes at the gate, familiar nods at the bar, and someone talking tactics over a pint of bitter."* — The Non-League Football Paper
+
+### Top 5 2026 Recommended Away Days
+
+1. 🏆 **Falmouth Town AFC** — FSA Away Day Experience Award 2025; hillside ground; Cornish pasties
+2. **FC Halifax Town** — 14,000-capacity; Football League feel; walkable town centre
+3. **Torquay United** — English Riviera; beach + football; lively terrace culture
+4. **Farnham Town** — Rare town-centre location; innovative ticket pricing; quality food
+5. **Lewes FC** — At the foot of the South Downs; community-run; equality initiatives
+
+### Where to Discuss
+
+- **r/nonleaguefootball** (30k+) / **r/nonleague** (40k+) / **r/NationalLeague** (15k+) on Reddit
+- **NonLeagueMatters**, **TheFans.io**, **Football Fanbase Forum**
+- **The Non-League Football Paper**, **Football Ground Guide**, **When Saturday Comes**
+
+[📄 Read the full non-league culture research document →](NON-LEAGUE-MATCHDAY-CULTURE.md)
+
 
 ## Football Apps
 
-_Open source apps for match scores, picks, predictions, office pools, and more_
-
-- [worldcup-2014 gem :octocat:](https://github.com/hpoydar/worldcup-2014), [:gem:](https://rubygems.org/gems/worldcup-2014) - provides command line access to World Cup 2014 information and results
-- [world_cup_cli gem :octocat:](https://github.com/jameswilliamiii/world_cup_cli), [:gem:](https://rubygems.org/gems/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
-
-- [fatiherikli/worldcup :octocat:](https://github.com/fatiherikli/worldcup) - World cup results for hackers; uses Soccer For Good API
-- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014) 
-- [rtopitt/bolao2014 :octocat:](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
-- [rtopitt/bolao :octocat:](https://github.com/rtopitt/bolao) - Bolão Copa 2010
-- [threefunkymonkeys/funky-world-cup :octocat:](https://github.com/threefunkymonkeys/funky-world-cup) - a match predictions website for the FIFA World Cup, that allows you to create groups so you can play with your friends defining prices
-- [malagant/tipptop :octocat:](https://github.com/malagant/tipptop) -  world cup 2010 betting game; W-JAX Challenge
-
-- [soccer_league :octocat:](https://github.com/mrjabba/soccer_league) - a rails application designed to manage soccer leagues, specifically teams, players and their stats
-- [standings gem :octocat:](https://github.com/scottluptowski/standings), [:gem:](https://rubygems.org/gems/standings) - view European football (e.g. the English Premier League, English Championship, Scottish Premier League, La Liga, Ligue 1, Serie A, and Bundesliga) standings from your terminal.
-- [ahs85/bundesliga_predictions :octocat:](https://github.com/ahs85/bundesliga_predictions) - predictions of the Deutsche Bundesliga (football league) season 2012/13
-- [architv/soccer-cli](https://github.com/architv/soccer-cli) - command line tool for league table standings, match scores and more (in Python) using an HTTP JSON API
-
-
-- [4teamwork/ftw.footballchallenge :octocat:](https://github.com/4teamwork/ftw.footballchallenge) - an online football bet game based on plone
-- [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
-- [kdungs/tippspiel :octocat:](https://github.com/kdungs/tippspiel) - bet on football games with your friends
-- [chipsmachine/bltippspiel :octocat:](https://github.com/chipsmachine/bltippspiel) - Bundesliga betting game (tippspiel)
-- [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a little open source android app for gathering information about the austrian bundesliga
-- [rodmoioliveira/football-graphs :octocat:](https://github.com/rodmoioliveira/football-graphs) - Some visualizations on passing networks
-* [Last season comparison](https://compare-last-season.netlify.app), [:octocat:](https://github.com/nurgasemetey/compare-last-season) - Last season comparison tool
-
-
-
-## Meta
-
-**License**
-
-The awesome list is dedicated to the public domain. Use as you please with no restrictions whatsoever.
-
-**Questions? Comments?**
-
-Yes, you can. More than welcome.
-See [Help & Support »](https://github.com/openfootball/help)
