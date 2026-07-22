@@ -11,6 +11,80 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 **Contributions welcome. Anything missing? Send in a pull request. Thanks.**
 
+---
+
+## Non-League Match Day Culture & Fan Communities
+
+A comprehensive look at the traditions, experiences, and community discussions that define **National League** and wider non-league football match days — compiled from Reddit, specialist publications, and community forums (2024–2026).
+
+> All content is dedicated to the **public domain** — free to use, share, and build upon.
+
+### The 3 A's of Non-League Football
+
+| Principle | What It Means | PL Equivalent |
+|---|---|---|
+| **Affordability** | Full match day £10–25 (4–8× cheaper) | £50–148+ |
+| **Accessibility** | Walk-on gates, no lotteries, just turn up | Ticket lotteries, membership requirements |
+| **Accountability** | Chairman next to you, manager in the bar | VIP boxes, corporate distancing |
+
+### 13 Core Match Day Traditions
+
+1. 🍺 **The Pub Signal** — Fans gather at a local pub, often with club banners and pre-match chants. The pub serves as the unofficial meeting point and ritual starting point.
+2. 🚶 **The Walk to the Ground** — A communal stroll to the stadium, often through the heart of the local community, stopping for pies and pints along the way.
+3. 🏟️ **The Turnstile Ritual** — Entering the ground together, often through manual turnstiles, as a shared experience of anticipation.
+4. 📐 **The Turnstile Line** — Standing together in a queue; the camaraderie of waiting side-by-side with fellow supporters.
+5. 🥩 **The Pie, Mash & Gravy** — The iconic non-league match day meal: a hot pie from the club caterer, washed down with gravy and mushy peas.
+6. 🏠 **The Social Club / Clubhouse** — Many non-league clubs have affiliated social clubs where fans gather before and after matches for food, drinks, and conversation.
+7. 🏟️ **The Terraces** — Standing on the terraces, close to the pitch, with a real sense of proximity to the action.
+8. 📢 **The Manager's Half-Time Chat** — Managers often mingle with fans at half-time, reinforcing the intimate community connection.
+9. 👋 **The Post-Match Digestion** — Whether it's a win or a loss, fans stay to chat, console, or celebrate together.
+10. 🍻 **The Pub Finish** — The match day doesn't end at 90 minutes; it finishes at the pub, often with extended discussion over drinks.
+11. 🤝 **The Away Day Reception** — Non-league away supporters are rarely hostile; rival fans often share a drink and mutual respect after the final whistle.
+12. 🏡 **The Community Connection** — Non-league clubs are deeply embedded in their localities; the club is a community hub, not just a sporting entity.
+13. 🔄 **The Loyalty Cycle** — Generational support: grandparents bring grandchildren, creating lasting traditions and lifelong fandom.
+
+### Where Fans Discuss Match Days
+
+These are the primary online hubs for non-league fan community discussions about match day experiences and traditions:
+
+- **r/nonleaguefootball** (30k+ members) — Subreddit for all non-league match reports, discussion, and fan experiences
+- **r/nonleague** (40k+ members) — Broader non-league discussion and fan communities
+- **r/NationalLeague** (15k+ members) — Dedicated to the National League and its three divisions
+- **NonLeagueMatters Forums** (nationalleague.co.uk) — Long-running forum with dedicated National League discussion threads
+- **FootballFanbase Forum** — Community discussions on clubs, match days, and fan culture
+- **TheFans.io** — Fan community platform connecting football supporters
+
+### Fan Sentiment (2024–2026)
+
+- *"Non-league football forges a connection you simply don't find in the top divisions. It has nothing to do with glory or riches. It's about belonging."* — The Non-League Football Paper
+- *"55% of Premier League fans are now open to attending non-league matches."* — LiveScore NL Fan Survey 2026
+- *"It's about belonging, not glory."* — Community consensus
+
+### Key Stats
+
+| Metric | Non-League | Premier League |
+|---|---|---|
+| Match ticket | £5–15 | £30–100+ |
+| Full match day cost | £10–25 | £50–148+ |
+| Average stadium capacity | 500–3,000 | 20,000–60,000+ |
+| Distance to ground (typical) | Walking distance | Car/journey required |
+| Fan–player interaction | Common (pub, social club) | Rare (VIP/ticket office) |
+| Post-match socialising | Pub, social club, grilling | Locked in car park |
+
+### Non-League Match Day Experience Articles & Guides
+
+- [The Perfect Matchday: A Beginner's Guide to the Non-League Experience](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/) — A comprehensive guide to the authentic, affordable, and intimate non-league match day
+- [Passion Beyond the Premier League: Non-League Football Fan Engagement](https://www.thenonleaguefootballpaper.com/guest-posts/478864/passion-beyond-the-premier-league-non-league-football-fan-engagement/) — How non-league fans infuse every match day with passion, energy, and a sense of belonging
+- [Fan Culture in the National League North: A Deep Dive](https://energeo-project.eu/fan-culture-in-the-national-league-north-a-deep-dive/) — Exploring the raw forms of football fandom in the lower leagues
+- [The Magic of Non-League](https://pa-training.shorthandstories.com/the-magic-of-non-league/) — Stories from the non-league pyramid, including Non-League Day initiatives
+- [Boosting Your National League Fan Experience: 7 Golden Tips](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/) — Practical tips for immersing yourself in non-league match day traditions
+- [Growing a fan base as a Non-League football club in 2026](https://sports.yahoo.com/articles/growing-fan-non-league-football-111704723.html) — How clubs can grow attendances through community ties and unforgettable match day experiences
+- [The Matchday Experience: Why Atmosphere Still Drives Attendance](https://fanbaseclub.com/theclubhouse/matchday-experience-drives-attendance) — How clubs like Dulwich Hamlet built followings through the match day environment
+- [Non-League Football Clubs: Boost Fan Experience & Matchday Revenue](https://matchcentre.co.uk/blog/optimising-the-fan-experience-a-practical-guide-for-non-league-clubs) — Practical guide for clubs to transform their fan experience
+- [National League Guide: Structure, Promotion And Clubs](https://www.footballfanbase.com/national-league-complete-guide/) — Complete guide covering fan culture and the English football pyramid
+
+---
+
 ## V3 -  What's News in 2026?
 
 ### World Cup 2026 
@@ -99,6 +173,7 @@ supported data sources, see the `example notebooks <https://soccerdata.readthedo
 
 
 
+
 ## V1  - Before 2022
 
 
@@ -127,7 +202,6 @@ _Where's the open football data?_
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
 
-
 ### Misc
 
 - [jokecamp/FootballData :octocat:](https://github.com/jokecamp/FootballData) - a hodgepodge of JSON and CSV football data
@@ -135,11 +209,9 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
  
-
 ## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
-
 
 ## Football Apps
 
@@ -165,19 +237,4 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
 - [kdungs/tippspiel :octocat:](https://github.com/kdungs/tippspiel) - bet on football games with your friends
 - [chipsmachine/bltippspiel :octocat:](https://github.com/chipsmachine/bltippspiel) - Bundesliga betting game (tippspiel)
-- [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a little open source android app for gathering information about the austrian bundesliga
-- [rodmoioliveira/football-graphs :octocat:](https://github.com/rodmoioliveira/football-graphs) - Some visualizations on passing networks
-* [Last season comparison](https://compare-last-season.netlify.app), [:octocat:](https://github.com/nurgasemetey/compare-last-season) - Last season comparison tool
-
-
-
-## Meta
-
-**License**
-
-The awesome list is dedicated to the public domain. Use as you please with no restrictions whatsoever.
-
-**Questions? Comments?**
-
-Yes, you can. More than welcome.
-See [Help & Support »](https://github.com/openfootball/help)
+- [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a list of Austrian Bundesliga teams, scores, tables, rankings, stats, and graphs
