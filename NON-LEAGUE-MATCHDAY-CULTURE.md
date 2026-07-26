@@ -24,17 +24,17 @@ The non-league match day is a ritual-rich experience. Community discussions acro
 
 2. 🚶 **The Walk to the Ground** — Many non-league grounds are walkable from local pubs. The journey itself is part of the ritual — discussing the team, the opposition, and the state of the pitch.
 
-3. 🏟️ **The Turnstile Ritual** — Buying a physical programme and walking through the turnstile. No barriers, no membership scanners, just cash or contact payment into an open gate.
+3. ⚽ **The Turnstile Ritual** — Buying a physical programme and walking through the turnstile. No barriers, no membership scanners, just cash or contact payment into an open gate.
 
 4. 📋 **The Turnstile Line** — At smaller grounds, the turnstile line is often where the best pre-match banter happens. You'll chat with the chairman, the opposition supporters, and the bar staff.
 
-5. 🥧 **The Pie, Mash & Gravy** — The culinary classic of non-league football. Many clubs partner with local bakeries to serve legendary steak and ale pies with creamy mash and rich gravy. The food is often the star of the show.
+5. 🥗 **The Pie, Mash & Gravy** — The culinary classic of non-league football. Many clubs partner with local bakeries to serve legendary steak and ale pies with creamy mash and rich gravy. The food is often the star of the show.
 
-6. 🏠 **The Social Club / Clubhouse** — The pre-match heart of the club. Unlike sterile corporate lounges, these are welcoming hubs where fans, club officials, and sometimes even the players mingle freely. It provides a sense of belonging — you feel like a member of a family, not a customer.
+6. 🏟️ **The Social Club / Clubhouse** — The pre-match heart of the club. Unlike sterile corporate lounges, these are welcoming hubs where fans, club officials, and sometimes even the players mingle freely. It provides a sense of belonging — you feel like a member of a family, not a customer.
 
-7. 🏟️ **The Terraces** — The freedom of the terraces. No assigned seats, no VIP sections. You can stand wherever you like, change ends at half-time to stay behind the goal your team is attacking, and are close enough to hear the crunch of a tackle.
+7. ⚽ **The Terraces** — The freedom of the terraces. No assigned seats, no VIP sections. You can stand wherever you like, change ends at half-time to stay behind the goal your team is attacking, and are close enough to hear the crunch of a tackle.
 
-8. 📣 **The Manager's Half-Time Chat** — In non-league, the manager is often approachable at half-time. Some fans report brief conversations with the gaffer during the break — discussing tactics, the opposition, or simply having a laugh.
+8. 📢 **The Manager's Half-Time Chat** — In non-league, the manager is often approachable at half-time. Some fans report brief conversations with the gaffer during the break — discussing tactics, the opposition, or simply having a laugh.
 
 9. 🙌 **The Post-Match Digestion** — Win or lose, the post-match atmosphere is about acceptance. There's no heated media tunnel interview — just fans walking out together, discussing the game with a degree of calm perspective.
 
@@ -150,6 +150,19 @@ Based on FSA Awards, Football Ground Guide rankings, and community discussions:
 
 ---
 
+## New Traditions & Modern Adaptations (2024–2026)
+
+The non-league match day tradition continues to evolve while holding on to its roots:
+
+- **Afternoon Tea Packages** — Some clubs now offer pre-match afternoon tea at the clubhouse, blending traditional hospitality with contemporary dining
+- **Craft Beer Revolution** — Local microbreweries partner with clubs to put unique beers on tap behind the bar; the "craft non-league pint" is becoming a thing
+- **Family Activities Zones** — Clubs like Lewes FC host dedicated family areas with activities for kids between 13:00 if it's a floodlit evening game
+- **DIY Atmosphere** — Fans bring drums, flags, and home-made banners; no corporate restrictions on how you celebrate. The ultras of the non-league world create an intense atmosphere
+- **Digital Half-Time** — Fans check live stats on phones while the ball is in play; some follow the "as it stands" table to see how other division games are going
+- **Non-League Day Expansion** — The 15th anniversary (28th March 2026) saw clubs partner with local charities for open-doors events; local newspaper coverage increased awareness of community initiatives
+
+---
+
 ## How This Project Accepts Contributions
 
 Per the existing README: **"Contributions welcome. Anything missing? Send in a pull request. Thanks."**
@@ -177,6 +190,8 @@ All research compiled from open web sources and community discussions (2024–20
 11. FootballFanbase Forum — [footballfanbase.com](https://www.footballfanbase.com)
 12. Energeo — Fan Culture Deep Dive — [energeo.co.uk](https://energeo.co.uk)
 13. Lower Block — Non-League Culture Research — [lowerblock.co.uk](https://lowerblock.co.uk)
+14. vavel.com — "Non-League Day giving teams a chance to show themselves off" — [vavel.com](https://www.vavel.com/en/football/2023/03/24/1141667-non-league-day-giving-teams-a-chance-to-show-themselves-off.html)
+15. National League Trust — Annual Report ahead of Non-League Day 2026 — [thenationalleague.org.uk](https://www.thenationalleague.org.uk/news/2026/march/27/national-league-trust-releases-annual-report-on-non-league-day/)
 
 ---
 
