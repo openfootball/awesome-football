@@ -114,6 +114,8 @@ _Where's the open football data?_
 
 ## Football Datasets
 
+- [korean-football-team-names :octocat:](https://github.com/dwoony0909-tech/korean-football-team-names) - English → Korean club name mapping for 264 European clubs (CC0), keyed on football-data.org names
+
 ### World Cup
 
 - [openfootball/world-cup :octocat:](https://github.com/openfootball/world-cup)
