@@ -1,11 +1,11 @@
 Awesome Series @ Planet Open Data
 
 [World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
-[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
+[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) • 
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
 
-# Awesome Football   (Open Datasets & Open Source Apps)
+# Awesome Football - Open Datasets & Open Source Apps
 
 A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 
@@ -33,11 +33,9 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 ## V2 -  What's News in 2022?
 
-
 [**jfjelstul/worldcup**](https://github.com/jfjelstul/worldcup)
 
 The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). An update with data on the 2022 World Cup in Qatar will be available soon. The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup.
-
 
 [**JaseZiv/worldfootballR**](https://github.com/JaseZiv/worldfootballR)
 
@@ -57,7 +55,6 @@ The data available for loading is stored in the `worldfootballR_data`
 repository. The repo can be found
 [here](https://github.com/JaseZiv/worldfootballR_data).
 
-
 [**dcaribou/transfermarkt-datasets**](https://github.com/dcaribou/transfermarkt-datasets)
 
 this project aims for three things:
@@ -69,9 +66,8 @@ this project aims for three things:
 Checkout this dataset also in: 
 [Kaggle](https://www.kaggle.com/davidcariboo/player-scores), 
 [data.world](https://data.world/dcereijo/player-scores),
-[streamlit](https://transfermarkt-datasets.herokuapp.com/),
+[streamlit](https://transfermarkt-datasets.herokuapp.com/), 
 [awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
-
 
 [**somdeep/Statball**](https://github.com/somdeep/Statball)
 
@@ -81,20 +77,15 @@ Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 
 Statsbomb : https://statsbomb.com/
 
-
-
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
-SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
-`ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and
-`WhoScored`_. You get Pandas DataFrames with sensible, matching column names
+SoccerData is a collection of wrappers over soccer data from `Club Elo`_, `ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and `WhoScored`_. You get Pandas DataFrames with sensible, matching column names
 and identifiers across datasets. Data is downloaded when needed and cached
 locally.
 
 To learn how to install, configure and use SoccerData, see the
 `Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the
 supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
-
 
 
 
@@ -138,11 +129,94 @@ _Where's the open football data?_
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
 - [Football Betting Predictions - Fully Settled Log (Kaggle)](https://www.kaggle.com/datasets/aibettingtips/football-betting-predictions-fully-settled-log) - football predictions settled against real final scores (losses included) with odds, closing odds and closing-line value per pick; CC BY 4.0
  
-
 ## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
+## ⚽ Football Culture & Fan Experiences
+
+Contributions welcome! This section documents the culture, traditions, and community experiences around National League and wider non-league football match days.
+
+> **The 3 A's of Non-League:** Affordability, Accessibility, Accountability — the cornerstones that make grassroots football uniquely welcoming.
+
+### Cost Comparison
+
+| Match Day Expense | Non-League (NL) | Premier League (PL) |
+|---|---|---|
+| Match ticket | £5–15 | £30–100+ |
+| Full match day | £12–27 | £50–148+ |
+| Away day (20 matches) | £250–500 | £1,000–2,960 |
+
+Non-league is **4–8× cheaper** than the Premier League.
+
+### 13 Core Match Day Traditions
+
+1. 🍺 **The Pub Signal** — Pre-match pub gathering where the atmosphere builds
+2. 🚶 **The Walk to the Ground** — Stroll through familiar streets with fellow supporters
+3. 🎟️ **The Turnstile Ritual** — Walk-on gates, no pre-booking or membership required
+4. 🍗 **The Pie, Mash & Gravy** — Sacred stadium pies, often from local bakeries
+5. 🏠 **The Social Club / Clubhouse** — Welcoming hub where fans, officials & players mingle
+6. 🏟️ **The Terraces** — Freedom of movement; change ends at half-time
+7. 📋 **The Matchday Programme** — £2–3 physical souvenir supporting club finances
+8. 📢 **The Manager's Half-Time Chat** — Volunteer-operated, intimate & unpolished
+9. 🍻 **The Pub Finish** — Post-match discussion over a drink
+10. 🚌 **The Away Day Reception** — Clubs welcoming visiting supporters
+11. 🤝 **The Community Connection** — Community programmes addressing social issues
+12. 🔄 **The Loyalty Cycle** — Generational commitment to the club
+13. 📱 **The Digital Bridge** — Mobile-first fans live-tailing stats at rural grounds
+
+### Key Statistics
+
+| Metric | Non-League | Premier League |
+|---|---|---|
+| Fans attending in person | 73% | 21% |
+| Fans who care about results | 23% | 69% |
+| PL fans open to NL (2026) | 55% (up from 49%) | — |
+| r/nonleaguefootball growth | ~40% since 2024 | — |
+| Longest English league away day | Truro → Gateshead (914 miles) | — |
+
+### Fan Quote Highlight
+
+> *"Non-league football forges a connection you simply don't find in the top divisions. It has nothing to do with glory or riches. It's about belonging."* — The Non-League Football Paper
+
+### Community Discussion Platforms
+
+- [r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball/) (30k+ members)
+- [r/nonleague](https://www.reddit.com/r/nonleague/) (40k+ members)
+- [r/NationalLeague](https://www.reddit.com/r/NationalLeague/) (15k+ members)
+- [NonLeagueMatters Forums](https://www.nonleaguematters.co.uk/forums/)
+- [TheFans.io](https://thefans.io/)
+- [FootballFanbase Forum](https://www.footballfanbase.com/)
+- [FanBanter](https://www.fanbanter.com/)
+
+### Notable Recognition (2025–2026)
+
+- **FSA Away Day Experience Award 2025** — Falmouth Town AFC
+- **FGG Best Away Days 2026** — Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, Lewes FC
+- **Non-League Day 2026** — 15th anniversary
+- **PL funding to NL + grassroots** — £230.6M total
+
+### Top 5 Recommended 2026 Away Days
+
+1. **Falmouth Town** (FSA 2025 Winner — Cornish charm, hillside ground, pasties)
+2. **FC Halifax Town** (The Shay — 14k capacity, "Football League" feel)
+3. **Torquay United** (Plainmoor — English Riviera, beach + football weekend)
+4. **Farnham Town** (Town-centre, innovative pricing, craft beer)
+5. **Lewes FC** (Dripping Pan — South Downs, locally sourced food, inclusive)
+
+### Articles & Guides
+
+- [The Perfect Matchday](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/) — The Non-League Football Paper (Feb 2026)
+- [Boosting Your National League Fan Experience: 7 Golden Tips](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/) — The Non-League Football Paper (Aug 2023)
+- [Passion Beyond the Premier League](https://www.thenonleaguefootballpaper.com/guest-posts/478864/passion-beyond-the-premier-league-non-league-football-fan-engagement/) — The Non-League Football Paper (Feb 2024)
+- [Best Away Days in Non-League Football](https://footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html) — Football Ground Guide (Mar 2026)
+- [Fan Culture in the National League North: A Deep Dive](https://energeo-project.eu/fan-culture-in-the-national-league-north-a-deep-dive/) — Energeo (2025)
+- [The Great Return](https://www.when Saturday Comes.com/) — When Saturday Comes, WSC 451 (Feb 2025)
+- [Away Days | Travel, Movement, and the Geography of Football Culture](https://www.lowerblock.com/) — Lower Block (Apr 2026)
+
+### Full Research Document
+
+📄 **[NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)** — Comprehensive research covering the 3 A's Framework, 13 Core Traditions, Perfect Match Day Sequence, Fan Sentiment Highlights, Cost Comparison, Regional Variations, Community Platforms Directory, Notable Recognition, Top 5 Away Days, The Non-League Boom, and Full Source Bibliography (15+ entries).
 
 ## Football Apps
 
@@ -174,7 +248,6 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [Scorewit](https://www.scorewit.com) - free daily football trivia plus computed World Cup and English top-flight reference pages, built on openfootball worldcup + england data (attribution: https://www.scorewit.com/llms.txt)
 - [Matchday Passport](https://allenwu-blip.github.io/matchday-passport/) - free iOS app that turns every match you attend into a collectible passport stamp (ground, date, score, both nations' flags, a different ink per competition); fixtures across twelve competitions sync daily from [football-data.org](https://www.football-data.org) with in-app attribution, and every fixture gets a page where fans who were there share photos and video; no ads, tracking or analytics; [App Store](https://apps.apple.com/us/app/matchday-passport/id6792546917)
 - [PunditBench](https://punditbench.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=football_llm_benchmark) [:octocat:](https://github.com/teemula35/punditbench) - pre-registered benchmark of football forecasts from 40+ language models; picks are locked before play, source-linked, and scored afterward (18+, informational only, no tips)
-
 
 
 ## Meta
