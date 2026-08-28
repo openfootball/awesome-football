@@ -1,7 +1,7 @@
 Awesome Series @ Planet Open Data
 
 [World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
-[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
+[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) • 
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
 
@@ -33,11 +33,9 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 ## V2 -  What's News in 2022?
 
-
 [**jfjelstul/worldcup**](https://github.com/jfjelstul/worldcup)
 
 The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). An update with data on the 2022 World Cup in Qatar will be available soon. The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup.
-
 
 [**JaseZiv/worldfootballR**](https://github.com/JaseZiv/worldfootballR)
 
@@ -53,10 +51,8 @@ football (soccer) data sites:
 Since the release of `v0.5.3`, the library now supports very rapid
 loading of pre-collected data through the use of `load_` functions.
 
-The data available for loading is stored in the `worldfootballR_data`
-repository. The repo can be found
+The data available for loading is stored in the `worldfootballR_data` repository. The repo can be found
 [here](https://github.com/JaseZiv/worldfootballR_data).
-
 
 [**dcaribou/transfermarkt-datasets**](https://github.com/dcaribou/transfermarkt-datasets)
 
@@ -72,7 +68,6 @@ Checkout this dataset also in:
 [streamlit](https://transfermarkt-datasets.herokuapp.com/),
 [awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
 
-
 [**somdeep/Statball**](https://github.com/somdeep/Statball)
 
 Football (soccer) stats analyser from top 5 european leagues with data obtained from Fbref and Statsbomb.
@@ -81,12 +76,10 @@ Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 
 Statsbomb : https://statsbomb.com/
 
-
-
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
-SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
-`ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and
+SoccerData is a collection of wrappers over soccer data from `Club Elo`_, 
+`ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and 
 `WhoScored`_. You get Pandas DataFrames with sensible, matching column names
 and identifiers across datasets. Data is downloaded when needed and cached
 locally.
@@ -98,9 +91,7 @@ supported data sources, see the `example notebooks <https://soccerdata.readthedo
 
 
 
-
 ## V1  - Before 2022
-
 
 Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
@@ -124,11 +115,9 @@ _Where's the open football data?_
 - [sanand0/fifadata :octocat:](https://github.com/sanand0/fifadata) - scraping FIFA world cup data
 - [pratapvardhan/FIFAWorldCup :octocat:](https://github.com/pratapvardhan/FIFAWorldCup) - FIFA World Cup data includes teams data, squad formations, clubs dominance
 
-
 ### England
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
-
 
 ### Misc
 
@@ -138,11 +127,13 @@ _Where's the open football data?_
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
 - [Football Betting Predictions - Fully Settled Log (Kaggle)](https://www.kaggle.com/datasets/aibettingtips/football-betting-predictions-fully-settled-log) - football predictions settled against real final scores (losses included) with odds, closing odds and closing-line value per pick; CC BY 4.0
  
-
 ## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
+## ⚽ Football Culture & Fan Experiences
+
+- [Non-League Match Day Culture & Fan Community Discussions](NON-LEAGUE-MATCHDAY-CULTURE.md) — comprehensive research summary of National League and non-league match day traditions, including the 3 A's (Affordability, Accessibility, Accountability), 13 core match day rituals, cost comparisons, regional variations, community discussion platforms, and notable recognition (FSA Away Day Experience Award 2025, FGG Best Away Days 2026, LiveScore Fan Survey 2026).
 
 ## Football Apps
 
@@ -174,7 +165,6 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [Scorewit](https://www.scorewit.com) - free daily football trivia plus computed World Cup and English top-flight reference pages, built on openfootball worldcup + england data (attribution: https://www.scorewit.com/llms.txt)
 - [Matchday Passport](https://allenwu-blip.github.io/matchday-passport/) - free iOS app that turns every match you attend into a collectible passport stamp (ground, date, score, both nations' flags, a different ink per competition); fixtures across twelve competitions sync daily from [football-data.org](https://www.football-data.org) with in-app attribution, and every fixture gets a page where fans who were there share photos and video; no ads, tracking or analytics; [App Store](https://apps.apple.com/us/app/matchday-passport/id6792546917)
 - [PunditBench](https://punditbench.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=football_llm_benchmark) [:octocat:](https://github.com/teemula35/punditbench) - pre-registered benchmark of football forecasts from 40+ language models; picks are locked before play, source-linked, and scored afterward (18+, informational only, no tips)
-
 
 
 ## Meta
