@@ -137,6 +137,7 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
 - [Football Betting Predictions - Fully Settled Log (Kaggle)](https://www.kaggle.com/datasets/aibettingtips/football-betting-predictions-fully-settled-log) - football predictions settled against real final scores (losses included) with odds, closing odds and closing-line value per pick; CC BY 4.0
+- [Bet Better soccer predicted scores](https://betbetter.world/predicted-scores/soccer) - daily model score predictions (predicted score, margin, total, win probability) for the Premier League, La Liga, Serie A, Bundesliga, Ligue 1 and MLS; free CSV/JSON with fixed columns (append `?format=csv`), picks graded publicly on-site; CC BY 4.0
  
 
 ## Stadium Datasets
