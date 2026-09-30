@@ -114,6 +114,7 @@ _Where's the open football data?_
 
 ## Football Datasets
 
+- [Football Charts open results dataset](https://www.football-charts.com/data#free) - full-time and half-time scores plus the minute of every goal for 93 leagues (2022–2026), including third and fourth tiers and four women's leagues; CC BY 4.0 with a DOI ([Zenodo](https://doi.org/10.5281/zenodo.22295583), [Kaggle](https://www.kaggle.com/datasets/damirdevetak/football-charts-93-leagues-results-goal-timing)); free JSON API and MCP server for the current and previous season, no key needed
 - [korean-football-team-names :octocat:](https://github.com/dwoony0909-tech/korean-football-team-names) - English → Korean club name mapping for 264 European clubs (CC0), keyed on football-data.org names
 
 ### World Cup
