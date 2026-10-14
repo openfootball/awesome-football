@@ -1,0 +1,1 @@
+# NOTE: This file has been removed. Please use [NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md) instead.
