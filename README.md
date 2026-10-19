@@ -129,6 +129,7 @@ _Where's the open football data?_
 ### England
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
+- [Touchline Wire Tactical API](https://touchlinewire.com/docs) - free unauthenticated Premier League tactical intelligence API with live predicted starting XIs (89.1% audited accuracy), tactical formations, injury availability wire, fixtures and standings; OpenAPI 3.0.3 spec, CORS enabled, no API key needed
 
 
 ### Misc
@@ -175,6 +176,7 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [Scorewit](https://www.scorewit.com) - free daily football trivia plus computed World Cup and English top-flight reference pages, built on openfootball worldcup + england data (attribution: https://www.scorewit.com/llms.txt)
 - [Matchday Passport](https://allenwu-blip.github.io/matchday-passport/) - free iOS app that turns every match you attend into a collectible passport stamp (ground, date, score, both nations' flags, a different ink per competition); fixtures across twelve competitions sync daily from [football-data.org](https://www.football-data.org) with in-app attribution, and every fixture gets a page where fans who were there share photos and video; no ads, tracking or analytics; [App Store](https://apps.apple.com/us/app/matchday-passport/id6792546917)
 - [PunditBench](https://punditbench.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=football_llm_benchmark) [:octocat:](https://github.com/teemula35/punditbench) - pre-registered benchmark of football forecasts from 40+ language models; picks are locked before play, source-linked, and scored afterward (18+, informational only, no tips)
+- [Touchline Wire](https://touchlinewire.com) - matchday Premier League tactical starting XI predictor and sports intelligence platform; live player availability wire, 3D tactical pitch, and free public API (documentation: https://touchlinewire.com/docs)
 
 
 
