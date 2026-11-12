@@ -138,6 +138,7 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
 - [Football Betting Predictions - Fully Settled Log (Kaggle)](https://www.kaggle.com/datasets/aibettingtips/football-betting-predictions-fully-settled-log) - football predictions settled against real final scores (losses included) with odds, closing odds and closing-line value per pick; CC BY 4.0
+- [FootInsights/footinsights-data :octocat:](https://github.com/FootInsights/footinsights-data) - every pre-match probability FootInsights published since Aug 2026, settled against the final score: 1X2, over/under 2.5 and both-teams-to-score probabilities, model version, final score and result per call; append-only, losses included, CC BY 4.0 CSV refreshed weekly
  
 
 ## Stadium Datasets
