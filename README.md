@@ -14,6 +14,7 @@ A collection of awesome football (national teams, clubs, match schedules, player
 ## V3 -  What's News in 2026?
 
 ### World Cup 2026 
+- [AsianScore Verifiable Football & NBA xG Prediction Ledger](https://asianscore.com/models.html#ledger) - open CC BY 4.0 pre-match SHA-256 locked probability dataset (JSON REST API at `asianscore.com/api/ledger` + GitHub CSV mirror) with automatic official final-score Brier Score settlement.
 - [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - model predictions (open data); per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
 
 - [uanalyse World Cup 2026 predictions](https://github.com/uanalyse/world-cup-2026-predictions) - daily, timestamped forecasts published before kickoff; per-match win/draw/loss probabilities and expected goals, plus tournament probabilities (reach each stage, champion) from a 10,000-run Monte Carlo group stage with the knockout bracket solved exactly by dynamic programming (computed, not sampled). Append-only, signed CC BY 4.0 CSVs, refreshed daily through the tournament, with a live [interactive portal](https://uanalyse.co.uk/world-cup-2026). Widely used: 300+ repo clones in two weeks, plus independent bracket and Kicktipp projects building on it.
