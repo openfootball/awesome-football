@@ -138,6 +138,7 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
 - [Football Betting Predictions - Fully Settled Log (Kaggle)](https://www.kaggle.com/datasets/aibettingtips/football-betting-predictions-fully-settled-log) - football predictions settled against real final scores (losses included) with odds, closing odds and closing-line value per pick; CC BY 4.0
+- [Korean League Standings API (GOLMUN TV)](https://thesportswave.net/developers) - free JSON standings for K League 1 and 2 (Final A/B split and regular season) with English team names; no key, CORS enabled; also covers Korean baseball, basketball and volleyball
  
 
 ## Stadium Datasets
